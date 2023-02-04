@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "791365f821dd190a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dream/My Shape/기타/예시파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230205.md",
+                "file": "Dream/My Shape/기타/예시파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230205.md",
+                "file": "Dream/My Shape/기타/예시파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230205.md"
+                "file": "Dream/My Shape/기타/예시파일.md"
               }
             }
           },
@@ -196,17 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5fb4197fcfce3bd",
+  "active": "791365f821dd190a",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230205.md",
+    "Day Planners/Day Planner-20230204.md",
     "Work/HR/HR 멘토링.md",
     "Day Planners/Day Planner-20230203.md",
     "His Words/성경공부/23.02.04 성경공부.md",
     "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
     "His Words/Words/사무엘상.md",
-    "Day Planners/Day Planner-20230204.md",
     "Day Planners/중*장기간 이슈.md",
     "Images/Pasted image 20230202145201.png",
-    "Images/Pasted image 20230202124226.png",
-    "Images/Pasted image 20230201141940.png"
+    "Images/Pasted image 20230202124226.png"
   ]
 }
