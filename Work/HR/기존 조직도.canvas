@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"194bd92a23af9e04","x":-260,"y":360,"width":292,"height":200,"type":"text","text":"**Independent**\n"},
+		{"id":"06f59a9f40ffdeaf","x":-239,"y":440,"width":250,"height":60,"color":"1","type":"text","text":"HR: SulT"},
+		{"id":"e800f6b3620c2934","x":-260,"y":600,"width":292,"height":220,"type":"text","text":"**Business**\n"},
+		{"id":"5d1a5b32c33ad36b","x":-239,"y":660,"width":250,"height":60,"color":"6","type":"text","text":"Executive: Cap & PJ"},
+		{"id":"cb7b64eed9d63293","x":-239,"y":740,"width":250,"height":60,"color":"6","type":"text","text":"Marketer: Jussi"},
+		{"id":"d1071223648ee79f","x":495,"y":537,"width":305,"height":347,"type":"text","text":"**Product Team**"},
+		{"id":"55ffc3e763d7913f","x":519,"y":787,"width":250,"height":60,"color":"2","type":"text","text":"Mod: 실시, 텅구리, wiglow"},
+		{"id":"d52b63de7c575580","x":519,"y":697,"width":250,"height":70,"color":"2","type":"text","text":"Dev: SongC, 서리, Wagyu, hogun"},
+		{"id":"aa9f3c0004fedc24","x":519,"y":617,"width":250,"height":60,"color":"2","type":"text","text":"Designer: PJ"},
+		{"id":"e884a9ed667fd6df","x":147,"y":680,"width":250,"height":60,"color":"5","type":"text","text":"PM: Swishee"}
+	],
+	"edges":[
+		{"id":"a0d417d5497e4d78","fromNode":"5d1a5b32c33ad36b","fromSide":"bottom","toNode":"cb7b64eed9d63293","toSide":"top"},
+		{"id":"7f097358132ffb35","fromNode":"5d1a5b32c33ad36b","fromSide":"top","toNode":"194bd92a23af9e04","toSide":"bottom"},
+		{"id":"2779e776aebb6ed7","fromNode":"e800f6b3620c2934","fromSide":"right","toNode":"e884a9ed667fd6df","toSide":"left"},
+		{"id":"1f7b7efcadb66ad8","fromNode":"e884a9ed667fd6df","fromSide":"right","toNode":"d1071223648ee79f","toSide":"left"}
+	]
+}

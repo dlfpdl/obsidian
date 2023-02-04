@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"01c3b1d84d7b6417","x":110,"y":-25,"width":284,"height":57,"color":"5","type":"text","text":"경영부 시장기회 발견"},
+		{"id":"a11fab15ffe57a64","x":110,"y":108,"width":284,"height":204,"color":"4","type":"text","text":"**Ex & PO & Marketer** \n- 가설 - 검증(인터뷰 & 지표 기반)\n- 관련 기획(UI/UX) & 실행\n- 로드맵 수립(기존에는 메이커가 로드맵 과정에 참여 X)"},
+		{"id":"a97259aaaa76f6f7","x":110,"y":366,"width":284,"height":101,"color":"4","type":"text","text":"**Maker** \n- 디자인, 모델링, 개발 진행"},
+		{"id":"3ae4b613aa26718a","x":530,"y":140,"width":252,"height":141,"color":"6","type":"text","text":"**Growth**\n- IR\n- B2B, 파트너십, 고객유치"},
+		{"id":"37da64074a4ec480","x":110,"y":-120,"width":302,"height":60,"type":"text","text":"LEAN: Build - Measure - Learn"}
+	],
+	"edges":[
+		{"id":"aabfaef3e7920669","fromNode":"01c3b1d84d7b6417","fromSide":"bottom","toNode":"a11fab15ffe57a64","toSide":"top"},
+		{"id":"cc23464bf1db2c48","fromNode":"a11fab15ffe57a64","fromSide":"bottom","toNode":"a97259aaaa76f6f7","toSide":"top"},
+		{"id":"397c4e73776fce31","fromNode":"a97259aaaa76f6f7","fromSide":"right","toNode":"3ae4b613aa26718a","toSide":"bottom"},
+		{"id":"ad1055b2460603f1","fromNode":"3ae4b613aa26718a","fromSide":"top","toNode":"01c3b1d84d7b6417","toSide":"right"},
+		{"id":"424b1ab65603f480","fromNode":"3ae4b613aa26718a","fromSide":"left","toNode":"a11fab15ffe57a64","toSide":"right"}
+	]
+}

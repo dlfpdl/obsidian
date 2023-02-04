@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6eb8d6ed3e572d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca403d0e07d173f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fb4197fcfce3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230205.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b88636d99d583a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9730829c541aa90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5006a466b793310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bb200be3f955c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4d651f5a84be67c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "02d1a6e1fbea51bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b995922f5a0336",
+        "type": "tabs",
+        "dimension": 31.343283582089555,
+        "children": [
+          {
+            "id": "fb69b03b82b22974",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20230205.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "530cddb3c4954b4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20230205.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7c73d750c4bc63a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83234c68c86505d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcf397a8f3173384",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20230205.md"
+              }
+            }
+          },
+          {
+            "id": "128d78138b781410",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a483fb2320cc45cc",
+        "type": "tabs",
+        "dimension": 33.18025258323766,
+        "children": [
+          {
+            "id": "d5cf1f11271a41e5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e30981606cbbff61",
+        "type": "tabs",
+        "dimension": 35.47646383467279,
+        "children": [
+          {
+            "id": "3e26e742e23f85cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "canvas:Create new canvas": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c5fb4197fcfce3bd",
+  "lastOpenFiles": [
+    "Work/HR/HR 멘토링.md",
+    "Day Planners/Day Planner-20230203.md",
+    "His Words/성경공부/23.02.04 성경공부.md",
+    "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+    "His Words/Words/사무엘상.md",
+    "Day Planners/Day Planner-20230204.md",
+    "Day Planners/중*장기간 이슈.md",
+    "Images/Pasted image 20230202145201.png",
+    "Images/Pasted image 20230202124226.png",
+    "Images/Pasted image 20230201141940.png"
+  ]
+}
