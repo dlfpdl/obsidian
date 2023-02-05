@@ -91,7 +91,7 @@
       {
         "id": "a6b995922f5a0336",
         "type": "tabs",
-        "dimension": 31.343283582089555,
+        "dimension": 54.38996579247435,
         "children": [
           {
             "id": "fb69b03b82b22974",
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230205.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230205.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/Day Planner-20230205.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +161,7 @@
       {
         "id": "a483fb2320cc45cc",
         "type": "tabs",
-        "dimension": 33.18025258323766,
+        "dimension": 22.80501710376283,
         "children": [
           {
             "id": "d5cf1f11271a41e5",
@@ -180,7 +176,7 @@
       {
         "id": "e30981606cbbff61",
         "type": "tabs",
-        "dimension": 35.47646383467279,
+        "dimension": 22.80501710376283,
         "children": [
           {
             "id": "3e26e742e23f85cd",
@@ -194,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 572.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "791365f821dd190a",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
-    "Dream/My Shape/기타/예시파일.md",
     "Day Planners/Day Planner-20230205.md",
+    "Dream/My Shape/기타/예시파일.md",
     "Day Planners/Day Planner-20230204.md",
     "Work/HR/HR 멘토링.md",
     "Day Planners/Day Planner-20230203.md",
