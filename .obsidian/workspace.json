@@ -81,6 +81,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "1dc6890a49465a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b664380cf310c15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/사업계획서_청년창업사관학교.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +283,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc932ac35c31068c",
+  "active": "b664380cf310c15c",
   "lastOpenFiles": [
     "무제 파일.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
