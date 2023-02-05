@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "His Words/성경공부/23.02.05 성경공부.md",
+                "file": "Day Planners/중*장기간 이슈.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/중*장기간 이슈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day Planners/중*장기간 이슈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/중*장기간 이슈.md"
+              }
             }
           },
           {
@@ -229,7 +233,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "9e145406cf8a1c65",
   "lastOpenFiles": [
     "His Words/성경공부/23.02.05 성경공부.md",
     "His Words/성경공부/23.01.29 성경공부.md",
