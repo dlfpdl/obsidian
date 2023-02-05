@@ -202,9 +202,17 @@
               "type": "online.tokuhirom.obsidian-stopwatch-plugin",
               "state": {}
             }
+          },
+          {
+            "id": "f9f1ed6215ec1500",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "a483fb2320cc45cc",
