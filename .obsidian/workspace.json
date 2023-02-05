@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ccc68caf8f44071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "His Words/Pray/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "His Words/Pray/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "His Words/Pray/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "His Words/Pray/무제 파일.md"
+              }
             }
           },
           {
@@ -205,7 +221,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "6ccc68caf8f44071",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230205.md",
     "Dream/My Shape/기타/예시파일.md",
