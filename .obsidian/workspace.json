@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/23.02.05 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/23.02.05 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "His Words/성경공부/23.02.05 성경공부.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e145406cf8a1c65",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
-    "His Words/성경공부/23.01.29 성경공부.md",
     "His Words/성경공부/23.02.05 성경공부.md",
+    "His Words/성경공부/23.01.29 성경공부.md",
     "His Words/성경공부/23.02.04 성경공부.md",
     "His Words/Pray/부탁.md",
     "Day Planners/Day Planner-20230205.md",
