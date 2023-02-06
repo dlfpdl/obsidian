@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e145406cf8a1c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230206.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50b066b1186d827c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/전략/사업계획서_청년창업사관학교.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc932ac35c31068c",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/사업계획서_청년창업사관학교.md",
+                "file": "Work/전략/청년창업사관학교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/사업계획서_청년창업사관학교.md",
+                "file": "Work/전략/청년창업사관학교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/사업계획서_청년창업사관학교.md"
+                "file": "Work/전략/청년창업사관학교.md"
               }
             }
           },
@@ -239,14 +214,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5cf1f11271a41e5",
+  "active": "fc932ac35c31068c",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230206.md",
+    "Work/전략/사업계획서_청년창업사관학교.md",
     "Day Planners/중*장기간 이슈.md",
     "His Words/성경공부/23.02.04 성경공부.md",
     "Day Planners/Day Planner-20230205.md",
     "Work/전략/청년창업사관학교.md",
-    "Work/전략/사업계획서_청년창업사관학교.md",
     "무제 파일.md",
     "His Words/성경공부/23.02.05 성경공부.md",
     "His Words/성경공부/23.01.29 성경공부.md",
