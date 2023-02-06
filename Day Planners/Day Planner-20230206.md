@@ -3,4 +3,4 @@
 - [ ] 19:00 Mentoring(MVC Prep)
 	- [ ] 자료읽기 세션
 - [ ] 19:30 NEW Daily Schedule Template
-- [ ] 
+- [ ] 운동
