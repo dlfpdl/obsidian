@@ -10,3 +10,6 @@
 - [https://youtu.be/YSsrI-Fcd5E](https://youtu.be/YSsrI-Fcd5E "https://youtu.be/YSsrI-Fcd5E")
 - [https://estimastory.com/2015/05/17/stevejobswhy/](https://estimastory.com/2015/05/17/stevejobswhy/ "https://estimastory.com/2015/05/17/stevejobswhy/")
 - [https://lin-kr.notion.site/MVC-1cd55dcd629b4906b0773e921825398b](https://lin-kr.notion.site/MVC-1cd55dcd629b4906b0773e921825398b "https://lin-kr.notion.site/MVC-1cd55dcd629b4906b0773e921825398b")
+- [https://www.youtube.com/live/bMvMRMeiirU?feature=share](https://www.youtube.com/live/bMvMRMeiirU?feature=share "https://www.youtube.com/live/bMvMRMeiirU?feature=share")
+- [https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb](https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb "https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb")
+- 
