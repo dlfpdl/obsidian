@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "98febf18c6d0e5d3",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contact.md",
+                "file": "Day Planners/Day Planner-20230206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contact.md",
+                "file": "Day Planners/Day Planner-20230206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contact.md"
+                "file": "Day Planners/Day Planner-20230206.md"
               }
             }
           },
@@ -255,11 +254,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88f5f98004b30689",
+  "active": "820ec9c2b464ec7e",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230206.md",
     "Contact.md",
     "Day Planners/중*장기간 이슈.md",
+    "Day Planners/Day Planner-20230206.md",
     "무제 파일.md",
     "Daily Schedule Template.md",
     "Work/전략/청년창업사관학교.md",
