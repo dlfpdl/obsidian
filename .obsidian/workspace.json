@@ -96,7 +96,7 @@
       {
         "id": "a6b995922f5a0336",
         "type": "tabs",
-        "dimension": 34.479166666666664,
+        "dimension": 58.333333333333336,
         "children": [
           {
             "id": "fb69b03b82b22974",
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230207.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230207.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/Day Planner-20230207.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +182,7 @@
       {
         "id": "a483fb2320cc45cc",
         "type": "tabs",
-        "dimension": 32.8125,
+        "dimension": 20.833333333333336,
         "children": [
           {
             "id": "d5cf1f11271a41e5",
@@ -201,7 +197,7 @@
       {
         "id": "e30981606cbbff61",
         "type": "tabs",
-        "dimension": 32.708333333333336,
+        "dimension": 20.833333333333336,
         "children": [
           {
             "id": "3e26e742e23f85cd",
@@ -215,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 835.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +226,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "820ec9c2b464ec7e",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230207.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP.md",
     "Pasted image 20230206015308.png",
@@ -240,7 +237,6 @@
     "Contact.md",
     "Day Planners/Daily Schedule Template.md",
     "Day Planners/Day Planner-20230206.md",
-    "Work/HR/기존 조직도.canvas",
-    "His Words/Words/사무엘하.md"
+    "Work/HR/기존 조직도.canvas"
   ]
 }
