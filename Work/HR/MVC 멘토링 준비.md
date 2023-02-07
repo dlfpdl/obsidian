@@ -15,5 +15,5 @@
 - [https://www.youtube.com/watch?v=NAsVZ4LTHiE](https://www.youtube.com/watch?v=NAsVZ4LTHiE "https://www.youtube.com/watch?v=NAsVZ4LTHiE")
 ---
 ### 주요내용 정리
-> **미션이란?**
+> **미션(사명)이란?**
 > 
