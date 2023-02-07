@@ -11,20 +11,15 @@
             "id": "820ec9c2b464ec7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f57fa47cd7ce8575",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/MVP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "98febf18c6d0e5d3",
@@ -109,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/전략/MVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/전략/MVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/전략/MVP.md"
+              }
             }
           },
           {
@@ -231,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5006a466b793310",
+  "active": "820ec9c2b464ec7e",
   "lastOpenFiles": [
-    "Pasted image 20230206015300.png",
     "Pasted image 20230206015308.png",
+    "Pasted image 20230206015300.png",
     "README.md",
     "Contact.md",
     "Day Planners/Daily Schedule Template.md",
