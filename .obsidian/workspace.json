@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230207.md",
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/HR/MVC 멘토링 준비.md"
+              }
             }
           },
           {
@@ -226,17 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "820ec9c2b464ec7e",
   "lastOpenFiles": [
+    "Work/HR/반성과 앞으로의 미래..md",
+    "Work/HR/HR 멘토링.md",
+    "Work/IR/IR 대본.md",
     "Day Planners/Day Planner-20230207.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP.md",
     "Pasted image 20230206015308.png",
     "Pasted image 20230206015300.png",
     "README.md",
-    "Contact.md",
-    "Day Planners/Daily Schedule Template.md",
-    "Day Planners/Day Planner-20230206.md",
-    "Work/HR/기존 조직도.canvas"
+    "Contact.md"
   ]
 }
