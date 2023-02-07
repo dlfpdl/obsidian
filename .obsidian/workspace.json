@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md"
+                "file": "Work/HR/HR 멘토링 2.md"
               }
             }
           },
@@ -261,8 +261,8 @@
   },
   "active": "41a2ce250187b1d4",
   "lastOpenFiles": [
-    "Work/HR/HR 멘토링 2.md",
     "Work/HR/MVC 멘토링 준비.md",
+    "Work/HR/HR 멘토링 2.md",
     "Work/HR/기존 조직도.canvas",
     "Work/HR/Work Flow.canvas",
     "Day Planners/Day Planner-20230207.md",
