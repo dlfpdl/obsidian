@@ -11,15 +11,11 @@
             "id": "a22ad38118790d87",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Work/HR/기존 조직도.canvas",
-                "viewState": {
-                  "x": 270,
-                  "y": 622,
-                  "zoom": -0.13425741512830394,
-                  "snapToGrid": false
-                }
+                "file": "Work/HR/HR 멘토링 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -67,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/Work Flow.canvas",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/Work Flow.canvas",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/Work Flow.canvas"
+                "file": "Work/HR/HR 멘토링 2.md"
               }
             }
           },
@@ -261,7 +256,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d03b43f7dd105d3",
+  "active": "a22ad38118790d87",
   "lastOpenFiles": [
     "Work/HR/기존 조직도.canvas",
     "Work/HR/Work Flow.canvas",
