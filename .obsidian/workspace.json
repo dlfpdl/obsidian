@@ -31,7 +31,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230206.md",
+                "file": "Work/전략/CSO_B2B & B2G 영업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a2ce250187b1d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/프로젝트 제안서.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230206.md",
+                "file": "Work/전략/CSO_B2B & B2G 영업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230206.md",
+                "file": "Work/전략/CSO_B2B & B2G 영업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230206.md"
+                "file": "Work/전략/CSO_B2B & B2G 영업.md"
               }
             }
           },
@@ -232,15 +244,15 @@
   },
   "active": "a22ad38118790d87",
   "lastOpenFiles": [
+    "Work/전략/프로젝트 제안서.md",
+    "Work/전략/CSO_B2B & B2G 영업.md",
     "Day Planners/Day Planner-20230207.md",
+    "Day Planners/Day Planner-20230206.md",
     "Day Planners/중*장기간 이슈.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/반성과 앞으로의 미래..md",
     "Work/HR/HR 멘토링.md",
     "Work/IR/IR 대본.md",
-    "Work/전략/MVP.md",
-    "Pasted image 20230206015308.png",
-    "Pasted image 20230206015300.png",
-    "README.md"
+    "Work/전략/MVP.md"
   ]
 }
