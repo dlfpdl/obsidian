@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/기존 조직도.canvas",
+                "file": "Work/HR/Work Flow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/기존 조직도.canvas",
+                "file": "Work/HR/Work Flow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/기존 조직도.canvas"
+                "file": "Work/HR/Work Flow.canvas"
               }
             }
           },
@@ -261,10 +261,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6de08e2f73aa574d",
+  "active": "7d03b43f7dd105d3",
   "lastOpenFiles": [
-    "Work/HR/Work Flow.canvas",
     "Work/HR/기존 조직도.canvas",
+    "Work/HR/Work Flow.canvas",
     "Work/HR/HR 멘토링 2.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/HR/MVC 멘토링 준비.md",
