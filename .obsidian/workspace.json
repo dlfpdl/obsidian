@@ -23,11 +23,15 @@
             "id": "a6ccfa667d9c12f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Day Planners/Day Planner-20230207.md",
-                "mode": "source",
-                "source": false
+                "file": "Work/HR/기존 조직도.canvas",
+                "viewState": {
+                  "x": 270,
+                  "y": 622,
+                  "zoom": -1.0762164029657895,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -165,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md",
+                "file": "Work/HR/기존 조직도.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md",
+                "file": "Work/HR/기존 조직도.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md"
+                "file": "Work/HR/기존 조직도.canvas"
               }
             }
           },
@@ -291,7 +295,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a22ad38118790d87",
+  "active": "f5006a466b793310",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/중*장기간 이슈.md",
