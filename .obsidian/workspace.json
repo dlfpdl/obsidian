@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Day Planners/Day Planner-20230207.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Day Planners/Day Planner-20230207.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
+                "file": "Day Planners/Day Planner-20230207.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md"
+                "file": "Day Planners/Day Planner-20230207.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "820ec9c2b464ec7e",
   "lastOpenFiles": [
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP.md",
     "Pasted image 20230206015308.png",
     "Pasted image 20230206015300.png",
@@ -240,7 +241,6 @@
     "Day Planners/Daily Schedule Template.md",
     "Day Planners/Day Planner-20230206.md",
     "Work/HR/기존 조직도.canvas",
-    "His Words/Words/사무엘하.md",
-    "Work/HR/MVC 멘토링 준비.md"
+    "His Words/Words/사무엘하.md"
   ]
 }
