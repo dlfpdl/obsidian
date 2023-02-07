@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 270,
                   "y": 622,
-                  "zoom": -0.07752141892170247,
+                  "zoom": -0.13425741512830394,
                   "snapToGrid": false
                 }
               }
@@ -43,9 +43,9 @@
               "state": {
                 "file": "Work/HR/기존 조직도.canvas",
                 "viewState": {
-                  "x": 270,
-                  "y": 622,
-                  "zoom": -1.0788276164223274,
+                  "x": 279.21157582430095,
+                  "y": 608.9098659338878,
+                  "zoom": -0.19048001771067766,
                   "snapToGrid": false
                 }
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,15 +261,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a22ad38118790d87",
+  "active": "6de08e2f73aa574d",
   "lastOpenFiles": [
+    "Work/HR/Work Flow.canvas",
+    "Work/HR/기존 조직도.canvas",
     "Work/HR/HR 멘토링 2.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/HR 멘토링 1.md",
     "Work/전략/프로젝트 제안서.md",
-    "Work/HR/기존 조직도.canvas",
-    "Work/HR/Work Flow.canvas",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/중*장기간 이슈.md"
