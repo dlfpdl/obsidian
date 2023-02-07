@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/HR 멘토링1.md",
+                "file": "Work/HR/HR 멘토링 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,14 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/HR 멘토링2.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/HR 멘토링1.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/HR 멘토링1.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/HR 멘토링1.md"
+                "file": "Work/HR/HR 멘토링 2.md"
               }
             }
           },
@@ -255,10 +255,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41a2ce250187b1d4",
+  "active": "6de08e2f73aa574d",
   "lastOpenFiles": [
-    "Work/HR/HR 멘토링2.md",
-    "Work/HR/HR 멘토링1.md",
+    "Work/HR/HR 멘토링 1.md",
+    "Work/HR/HR 멘토링 2.md",
     "Work/전략/프로젝트 제안서.md",
     "Day Planners/Day Planner-20230207.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
