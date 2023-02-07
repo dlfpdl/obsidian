@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/전략/CSO_B2B & B2G 영업.md",
+                "file": "Work/HR/HR 멘토링 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/HR/HR 멘토링 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/HR/HR 멘토링 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/HR/HR 멘토링 2.md"
+              }
             }
           },
           {
@@ -253,8 +256,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "a22ad38118790d87",
   "lastOpenFiles": [
+    "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/HR 멘토링 2.md",
     "Work/HR/HR 멘토링 1.md",
@@ -262,7 +266,6 @@
     "Work/HR/기존 조직도.canvas",
     "Work/HR/Work Flow.canvas",
     "Day Planners/Day Planner-20230207.md",
-    "Work/전략/CSO_B2B & B2G 영업.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/중*장기간 이슈.md"
   ]
