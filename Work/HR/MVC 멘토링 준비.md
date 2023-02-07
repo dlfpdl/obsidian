@@ -13,3 +13,5 @@
 - [https://www.youtube.com/live/bMvMRMeiirU?feature=share](https://www.youtube.com/live/bMvMRMeiirU?feature=share "https://www.youtube.com/live/bMvMRMeiirU?feature=share")
 - [https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb](https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb "https://lin-kr.notion.site/CCMV-0ee070a97d0e423c8b3b0192a366e1fb")
 - [https://www.youtube.com/watch?v=NAsVZ4LTHiE](https://www.youtube.com/watch?v=NAsVZ4LTHiE "https://www.youtube.com/watch?v=NAsVZ4LTHiE")
+---
+### 주요내용 정리
