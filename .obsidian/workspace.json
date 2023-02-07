@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
+                "file": "Work/HR/MVC 멘토링 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md"
+                "file": "Work/HR/MVC 멘토링 준비.md"
               }
             }
           },
@@ -261,13 +261,13 @@
   },
   "active": "41a2ce250187b1d4",
   "lastOpenFiles": [
-    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/HR 멘토링 2.md",
+    "Work/HR/HR 멘토링 1.md",
+    "Work/전략/프로젝트 제안서.md",
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/기존 조직도.canvas",
     "Work/HR/Work Flow.canvas",
     "Day Planners/Day Planner-20230207.md",
-    "Work/HR/HR 멘토링 1.md",
-    "Work/전략/프로젝트 제안서.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/중*장기간 이슈.md"
