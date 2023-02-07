@@ -11,11 +11,15 @@
             "id": "a22ad38118790d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Work/HR/기존 조직도.canvas",
+                "viewState": {
+                  "x": 270,
+                  "y": 622,
+                  "zoom": -0.07752141892170247,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
+                "file": "Work/HR/기존 조직도.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md",
+                "file": "Work/HR/기존 조직도.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/HR 멘토링 2.md"
+                "file": "Work/HR/기존 조직도.canvas"
               }
             }
           },
@@ -258,9 +262,9 @@
   },
   "active": "a22ad38118790d87",
   "lastOpenFiles": [
+    "Work/HR/HR 멘토링 2.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/HR/MVC 멘토링 준비.md",
-    "Work/HR/HR 멘토링 2.md",
     "Work/HR/HR 멘토링 1.md",
     "Work/전략/프로젝트 제안서.md",
     "Work/HR/기존 조직도.canvas",
