@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,12 +253,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41a2ce250187b1d4",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/HR 멘토링 2.md",
     "Work/HR/HR 멘토링 1.md",
     "Work/전략/프로젝트 제안서.md",
-    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/기존 조직도.canvas",
     "Work/HR/Work Flow.canvas",
     "Day Planners/Day Planner-20230207.md",
