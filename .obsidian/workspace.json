@@ -201,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/02.08 수요 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/02.08 수요 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,9 +246,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "His Words/성경공부/02.08 수요 성경공부.md"
-              }
+              "state": {}
             }
           },
           {
@@ -327,8 +323,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2d55aec8791f8e1",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "His Words/성경공부/02.08 수요 성경공부.md",
     "Work/전략/MVP 전략/MVP 전략.md",
     "Work/스프린트/Sprint 1_Start.md",
     "Work/HR/MVC 멘토링 준비.md",
@@ -337,7 +334,6 @@
     "Work/전략/청년창업사관학교.md",
     "Work/전략/프로젝트 제안서.md",
     "Work/전략/MVP.md",
-    "Work/HR/HR 멘토링 2.md",
-    "Work/HR/Work Flow.canvas"
+    "Work/HR/HR 멘토링 2.md"
   ]
 }
