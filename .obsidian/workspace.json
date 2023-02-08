@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "Day Planners/중*장기간 이슈.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "Day Planners/중*장기간 이슈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "Day Planners/중*장기간 이슈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md"
+                "file": "Day Planners/중*장기간 이슈.md"
               }
             }
           },
@@ -313,15 +312,15 @@
   },
   "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230208.md",
+    "Day Planners/Day Planner-20230207.md",
+    "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 전략.md",
     "His Words/성경공부/02.08 수요 성경공부.md",
-    "Work/HR/스크럼 가이드.md",
     "Work/스프린트/Sprint 1_Start.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/청년창업사관학교.md",
-    "Work/전략/프로젝트 제안서.md",
-    "Work/전략/MVP.md",
-    "Work/HR/HR 멘토링 2.md"
+    "Work/전략/프로젝트 제안서.md"
   ]
 }
