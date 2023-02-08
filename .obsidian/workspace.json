@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e4f94c9fbc91e436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/HR/스크럼 가이드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41a2ce250187b1d4",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md",
+                "file": "Work/HR/스크럼 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md",
+                "file": "Work/HR/스크럼 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md"
+                "file": "Work/HR/스크럼 가이드.md"
               }
             }
           },
@@ -241,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,10 +271,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a22ad38118790d87",
+  "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230208.md",
+    "Day Planners/Day Planner-20230207.md",
     "Work/HR/HR 멘토링 2.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/기존 조직도.canvas",
