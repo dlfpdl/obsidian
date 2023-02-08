@@ -92,7 +92,25 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "f0aa83e36dc8cc7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1170b1b16380c02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/HR/스크럼 가이드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md"
+                "file": "Work/전략/MVP 전략/MVP 전략.md"
               }
             }
           },
@@ -285,17 +303,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4f94c9fbc91e436",
+  "active": "913c8b3a9d1080c1",
   "lastOpenFiles": [
-    "Work/전략/CSO_B2B & B2G 영업.md",
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP 전략/MVP 전략.md",
+    "Work/HR/스크럼 가이드.md",
+    "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/청년창업사관학교.md",
     "Work/전략/프로젝트 제안서.md",
     "Work/전략/MVP.md",
     "Work/HR/HR 멘토링 2.md",
-    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/Work Flow.canvas",
-    "Work/HR/기존 조직도.canvas",
-    "Work/HR/반성과 앞으로의 미래..md"
+    "Work/HR/기존 조직도.canvas"
   ]
 }
