@@ -116,25 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "f0aa83e36dc8cc7d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1170b1b16380c02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/HR/스크럼 가이드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -201,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/HR/스크럼 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,6 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/HR/스크럼 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/HR/스크럼 가이드.md"
+              }
             }
           },
           {
@@ -308,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,13 +311,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
-    "His Words/성경공부/02.08 수요 성경공부.md",
     "Work/전략/MVP 전략/MVP 전략.md",
+    "His Words/성경공부/02.08 수요 성경공부.md",
+    "Work/HR/스크럼 가이드.md",
     "Work/스프린트/Sprint 1_Start.md",
     "Work/HR/MVC 멘토링 준비.md",
-    "Work/HR/스크럼 가이드.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/청년창업사관학교.md",
     "Work/전략/프로젝트 제안서.md",
