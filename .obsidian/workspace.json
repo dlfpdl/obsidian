@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "f2d55aec8791f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "His Words/성경공부/02.08 수요 성경공부.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41a2ce250187b1d4",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f0aa83e36dc8cc7d",
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 전략.md",
+                "file": "His Words/성경공부/02.08 수요 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 전략.md",
+                "file": "His Words/성경공부/02.08 수요 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 전략.md"
+                "file": "His Words/성경공부/02.08 수요 성경공부.md"
               }
             }
           },
@@ -315,10 +327,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bd915f7e4c42437",
+  "active": "f2d55aec8791f8e1",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 1_Start.md",
     "Work/전략/MVP 전략/MVP 전략.md",
+    "Work/스프린트/Sprint 1_Start.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
