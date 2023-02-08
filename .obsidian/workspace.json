@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "2bd915f7e4c42437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41a2ce250187b1d4",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f0aa83e36dc8cc7d",
@@ -303,17 +315,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "913c8b3a9d1080c1",
+  "active": "2bd915f7e4c42437",
   "lastOpenFiles": [
-    "Work/HR/MVC 멘토링 준비.md",
+    "Work/스프린트/Sprint 1_Start.md",
     "Work/전략/MVP 전략/MVP 전략.md",
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/청년창업사관학교.md",
     "Work/전략/프로젝트 제안서.md",
     "Work/전략/MVP.md",
     "Work/HR/HR 멘토링 2.md",
-    "Work/HR/Work Flow.canvas",
-    "Work/HR/기존 조직도.canvas"
+    "Work/HR/Work Flow.canvas"
   ]
 }
