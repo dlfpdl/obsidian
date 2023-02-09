@@ -1,10 +1,11 @@
 # Agenda
-### 전략 로드맵
+### **전략 로드맵**
 - [[스크럼 가이드#PO]]
-- MVP Goal Value Set(MVP 목표설정)
+- **MVP Goal Value Set**(MVP 목표설정)
 	- 커뮤니티 핵심가치(방향성)
->		
-- MVP Goal KPI Set
+>		**기술측면**: 3D 공간을 통한 경험의 극대회
+>		**문화측면**: 관심사를 넘어 일대일로 일상까지 공유할 수 있는 문화
+- **MVP Goal KPI Set**
 
 ### 기획 로드맵
 - 핵심기능 wireframe
