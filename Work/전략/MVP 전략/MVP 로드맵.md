@@ -1,7 +1,7 @@
 # Agenda
 ### 전략 로드맵
 - [[스크럼 가이드#PO]]
-- Goal Set(MVP 목표설정)
+- MVP Goal Set(MVP 목표설정)
 	- 커뮤니티 핵심가치(방향성)
 - KPI Set
 
@@ -13,10 +13,12 @@
 - 타겟
 - 니즈 diverge 
 - 니즈 converge
-- 우리의 타겟 (  )은 기능 (  )을 원할 것이다.(brainstorm: diverge)
-	- minimalize 취합(converge)
 
 ### 기능 설정
 - 기능 리스트업
+- 우리의 타겟 (  )은 기능 (  )을 원할 것이다.(brainstorm: diverge)
+- minimalize 취합(converge)
 
-### 
+### Action Plan
+- 스프린트 목표
+- 스프린트 메인 기획
