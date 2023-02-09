@@ -11,8 +11,10 @@
 
 ### 가설 설정
 - 타겟
-- 니즈
-- 우리의 타겟 (  )은 기능 (  )을 원할 것이다.
+- 니즈 diverge 
+- 니즈 converge
+- 우리의 타겟 (  )은 기능 (  )을 원할 것이다.(brainstorm: diverge)
+	- minimalize 취합(converge)
 
 ### 기능 설정
-- 기능 
+- 기능 리스트업
