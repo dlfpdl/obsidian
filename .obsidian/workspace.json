@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md"
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md"
               }
             }
           },
@@ -331,6 +331,8 @@
   },
   "active": "b022fcfe420df903",
   "lastOpenFiles": [
+    "Work/전략/사업계획서_청년창업사관학교.md",
+    "Day Planners/Day Planner-20230209.md",
     "Work/IR/심재훈 심사역님 미팅.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/HR/스크럼 가이드.md",
@@ -338,8 +340,6 @@
     "Pasted image 20230207202644.png",
     "Pasted image 20230207203452.png",
     "Work/전략/MVP 전략/BM 및 보상체계(Cap).md",
-    "Day Planners/Day Planner-20230209.md",
-    "Work/전략/청년창업사관학교.md",
-    "Work/전략/사업계획서_청년창업사관학교.md"
+    "Work/전략/청년창업사관학교.md"
   ]
 }
