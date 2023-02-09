@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md",
+                "file": "Day Planners/Day Planner-20230209.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md",
+                "file": "Day Planners/Day Planner-20230209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md",
+                "file": "Day Planners/Day Planner-20230209.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/중*장기간 이슈.md"
+                "file": "Day Planners/Day Planner-20230209.md"
               }
             }
           },
@@ -313,6 +313,7 @@
   "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230208.md",
+    "Day Planners/중*장기간 이슈.md",
     "Day Planners/Day Planner-20230207.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 전략.md",
@@ -320,7 +321,6 @@
     "Work/스프린트/Sprint 1_Start.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
-    "Work/전략/청년창업사관학교.md",
-    "Work/전략/프로젝트 제안서.md"
+    "Work/전략/청년창업사관학교.md"
   ]
 }
