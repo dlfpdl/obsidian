@@ -24,6 +24,7 @@
 - 기능 리스트업
 - 우리의 타겟 (  )은 기능 (  )을 원할 것이다.(brainstorm: diverge)
 - minimalize 취합(converge)
+- [[BM 및 보상체계(Cap)]]
 
 ### Action Plan
 - 스프린트 목표
