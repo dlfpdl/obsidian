@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
+                "file": "Day Planners/Day Planner-20230209.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,24 +129,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "78f06eb19ad467ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cdc0576b65add23d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/전략/MVP 전략/PO 회의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -213,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20230209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day Planners/Day Planner-20230209.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +242,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/Day Planner-20230209.md"
+              }
             }
           },
           {
@@ -320,7 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,11 +321,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
     "Work/전략/MVP 전략/MVP 로드맵.md",
-    "Day Planners/Day Planner-20230209.md",
     "Work/전략/MVP 전략/PO 회의.md",
+    "Day Planners/Day Planner-20230209.md",
     "Work/전략/청년창업사관학교.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
     "Work/HR/스크럼 가이드.md",
