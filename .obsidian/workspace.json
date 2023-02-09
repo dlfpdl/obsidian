@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/PO 회의.md",
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/PO 회의.md",
+                "file": "Work/전략/MVP 전략/MVP 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/PO 회의.md"
+                "file": "Work/전략/MVP 전략/MVP 전략.md"
               }
             }
           },
@@ -340,7 +340,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdc0576b65add23d",
+  "active": "e4f94c9fbc91e436",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230209.md",
     "Work/전략/MVP 전략/PO 회의.md",
