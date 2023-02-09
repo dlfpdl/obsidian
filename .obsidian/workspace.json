@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "d7393f81e7d617a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/청년창업사관학교.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "913c8b3a9d1080c1",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/청년창업사관학교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md",
+                "file": "Work/전략/청년창업사관학교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230209.md"
+                "file": "Work/전략/청년창업사관학교.md"
               }
             }
           },
@@ -310,17 +322,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4f94c9fbc91e436",
+  "active": "d7393f81e7d617a8",
   "lastOpenFiles": [
-    "Work/HR/스크럼 가이드.md",
+    "Work/전략/사업계획서_청년창업사관학교.md",
+    "Work/전략/MVP 전략/PO 회의.md",
+    "Work/전략/MVP 전략/MVP 전략.md",
     "Day Planners/Day Planner-20230209.md",
+    "Work/HR/스크럼 가이드.md",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230208.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/Day Planner-20230205.md",
-    "Day Planners/Day Planner-20230204.md",
-    "Day Planners/Day Planner-20230203.md",
-    "Day Planners/Day Planner-20230202.md",
-    "Day Planners/Day Planner-20230201.md"
+    "Day Planners/Day Planner-20230204.md"
   ]
 }
