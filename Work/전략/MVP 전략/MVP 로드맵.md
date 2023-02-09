@@ -11,11 +11,7 @@
 
 - **MVP Goal KPI Set**
 	- 챌린지 달성율 & 레벨 시스템
-
-### 기획 로드맵
-- 핵심기능 wireframe
-	- 2주일치
-- 브랜딩(Modeler & Designer)
+	- 
 
 ### 가설 설정
 - 타겟
@@ -24,6 +20,11 @@
 - 초기고객획득방안
 	- Plan A: B2B / B2G / B2COM 파트너십
 	- Plan B: 마케팅
+
+### 기획 로드맵
+- 핵심기능 wireframe
+	- 2주일치
+- 브랜딩(Modeler & Designer)
 
 ### 기능 설정
 - 기능 리스트업
