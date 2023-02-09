@@ -9,12 +9,16 @@
 
 ### 기획 로드맵
 - 핵심기능 wireframe
+	- 2주일치
 - 브랜딩(Modeler & Designer)
 
 ### 가설 설정
 - 타겟
 - 니즈 diverge 
 - 니즈 converge
+- 초기고객획득방안
+	- Plan A: B2B / B2G / B2COM 파트너십
+	- Plan B: 마케팅
 
 ### 기능 설정
 - 기능 리스트업
