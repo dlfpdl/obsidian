@@ -213,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +229,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,9 +258,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md"
-              }
+              "state": {}
             }
           },
           {
@@ -324,8 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,13 +335,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4f94c9fbc91e436",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "Work/전략/MVP 전략/MVP 로드맵.md",
     "Day Planners/Day Planner-20230209.md",
     "Work/전략/MVP 전략/PO 회의.md",
     "Work/전략/청년창업사관학교.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
-    "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/HR/스크럼 가이드.md",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230208.md",
