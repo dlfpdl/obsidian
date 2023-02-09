@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/전략/청년창업사관학교.md",
+                "file": "Work/전략/MVP 전략/PO 회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,25 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "78f06eb19ad467ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc0576b65add23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/MVP 전략/PO 회의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/청년창업사관학교.md",
+                "file": "Work/전략/MVP 전략/PO 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/청년창업사관학교.md",
+                "file": "Work/전략/MVP 전략/PO 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/청년창업사관학교.md"
+                "file": "Work/전략/MVP 전략/PO 회의.md"
               }
             }
           },
@@ -322,17 +340,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7393f81e7d617a8",
+  "active": "cdc0576b65add23d",
   "lastOpenFiles": [
-    "Work/전략/사업계획서_청년창업사관학교.md",
-    "Work/전략/MVP 전략/PO 회의.md",
-    "Work/전략/MVP 전략/MVP 전략.md",
     "Day Planners/Day Planner-20230209.md",
+    "Work/전략/MVP 전략/PO 회의.md",
+    "Work/전략/청년창업사관학교.md",
+    "Work/전략/사업계획서_청년창업사관학교.md",
+    "Work/전략/MVP 전략/MVP 전략.md",
     "Work/HR/스크럼 가이드.md",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230208.md",
     "Day Planners/Day Planner-20230206.md",
-    "Day Planners/Day Planner-20230205.md",
-    "Day Planners/Day Planner-20230204.md"
+    "Day Planners/Day Planner-20230205.md"
   ]
 }
