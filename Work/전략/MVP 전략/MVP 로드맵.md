@@ -32,6 +32,7 @@
 	- DAU
 	- Retention Rate
 	- Churn Rate
+	- 소모임 별 추천수 & 리뷰 기반 콘텐츠 다양화
 
 ### 가설 설정
 - 타겟
