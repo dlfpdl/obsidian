@@ -31,7 +31,6 @@
 	- 구독전환율
 	- DAU
 	- Retention Rate
-	- 
 
 ### 가설 설정
 - 타겟
