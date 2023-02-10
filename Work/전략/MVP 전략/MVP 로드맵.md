@@ -12,6 +12,9 @@
 
 - **MVP Goal KPI Set**
 ![[Pasted image 20230210135025.png]]
+![[Pasted image 20230210135057.png]]
+
+
 - Diverge 
 	- 누적 소모임 수
 	- 신규 소모임 생성 & 참여 성장률
