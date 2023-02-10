@@ -12,7 +12,7 @@
 
 - **MVP Goal KPI Set**
 - Diverge 
-	- 
+	- 소모임 
 
 ### 가설 설정
 - 타겟
