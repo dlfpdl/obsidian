@@ -13,6 +13,7 @@
 - **MVP Goal KPI Set**
 - Diverge 
 	- 신규 소모임 수
+	- 누적 그룹대화 수
 	- MAU 성장률
 	- 
 
