@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md",
+                "file": "Day Planners/Day Planner-20230210.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md",
+                "file": "Day Planners/Day Planner-20230210.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md",
+                "file": "Day Planners/Day Planner-20230210.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230208.md"
+                "file": "Day Planners/Day Planner-20230210.md"
               }
             }
           },
@@ -271,14 +271,14 @@
   "active": "b022fcfe420df903",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230209.md",
+    "Day Planners/Day Planner-20230208.md",
+    "Day Planners/Day Planner-20230207.md",
+    "Day Planners/Day Planner-20230206.md",
+    "Day Planners/Day Planner-20230205.md",
+    "Day Planners/Day Planner-20230204.md",
     "Day Planners/Day Planner-20230210.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/HR/MVC 멘토링 준비.md",
-    "Work/HR/스크럼 가이드.md",
-    "Work/HR/반성과 앞으로의 미래..md",
-    "His Words/성경공부/02.08 수요 성경공부.md",
-    "Work/HR/기존 조직도.canvas",
-    "Work/HR/Work Flow.canvas",
-    "Day Planners/Day Planner-20230208.md"
+    "Work/HR/스크럼 가이드.md"
   ]
 }
