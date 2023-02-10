@@ -12,7 +12,9 @@
 
 - **MVP Goal KPI Set**
 - Diverge 
-	- 소모임 
+	- 신규 소모임 수
+	- MAU 성장률
+	- 
 
 ### 가설 설정
 - 타겟
