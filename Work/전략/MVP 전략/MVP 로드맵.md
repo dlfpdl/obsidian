@@ -34,7 +34,7 @@
 
 ### 가설 설정
 - 타겟
-- 니즈 diverge 
+- 니즈 diverge
 - 니즈 converge
 - 초기고객획득방안
 	- Plan A: B2B / B2G / B2COM 파트너십
