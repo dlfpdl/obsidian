@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/반성과 앞으로의 미래..md",
+                "file": "Day Planners/Day Planner-20230210.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/반성과 앞으로의 미래..md",
+                "file": "Day Planners/Day Planner-20230210.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/반성과 앞으로의 미래..md"
+                "file": "Day Planners/Day Planner-20230210.md"
               }
             }
           },
@@ -311,8 +311,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "913c8b3a9d1080c1",
+  "active": "b022fcfe420df903",
   "lastOpenFiles": [
+    "Work/HR/반성과 앞으로의 미래..md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "His Words/성경공부/02.08 수요 성경공부.md",
     "Day Planners/Day Planner-20230210.md",
@@ -321,7 +322,6 @@
     "His Words/Words/사무엘하.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
     "Work/IR/심재훈 심사역님 미팅.md",
-    "Work/HR/스크럼 가이드.md",
-    "Work/전략/MVP 전략/PO 회의.md"
+    "Work/HR/스크럼 가이드.md"
   ]
 }
