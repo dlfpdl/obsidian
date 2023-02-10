@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230210.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230210.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230210.md"
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md"
               }
             }
           },
@@ -268,15 +269,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b022fcfe420df903",
+  "active": "2eccc330305285b2",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230210.md",
     "Day Planners/Day Planner-20230209.md",
     "Day Planners/Day Planner-20230208.md",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/Day Planner-20230205.md",
     "Day Planners/Day Planner-20230204.md",
-    "Day Planners/Day Planner-20230210.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/스크럼 가이드.md"
