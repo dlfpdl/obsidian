@@ -31,6 +31,8 @@
 	- 구독전환율
 	- DAU
 	- Retention Rate
+	- Churn Rate
+	- 
 
 ### 가설 설정
 - 타겟
