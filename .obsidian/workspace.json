@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4f94c9fbc91e436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230210.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b022fcfe420df903",
             "type": "leaf",
             "state": {
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,8 +273,8 @@
   "active": "2eccc330305285b2",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230210.md",
-    "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
+    "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/스크럼 가이드.md",
     "Work/HR/반성과 앞으로의 미래..md",
     "His Words/성경공부/02.08 수요 성경공부.md",
