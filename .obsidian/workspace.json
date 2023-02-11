@@ -11,11 +11,9 @@
             "id": "2eccc330305285b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
-                "mode": "source",
-                "source": false
+                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
+                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
+                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/Words/사무엘하.md"
+                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf"
               }
             }
           },
@@ -215,6 +213,7 @@
   },
   "active": "2eccc330305285b2",
   "lastOpenFiles": [
+    "His Words/Words/사무엘하.md",
     "His Words/성경공부/23.02.11 토요 성경공부.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
@@ -223,7 +222,6 @@
     "Day Planners/Day Planner-20230208.md",
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230206.md",
-    "Day Planners/Day Planner-20230205.md",
-    "Day Planners/Day Planner-20230204.md"
+    "Day Planners/Day Planner-20230205.md"
   ]
 }
