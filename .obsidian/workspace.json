@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
+                "file": "His Words/Words/사무엘하.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
+                "file": "His Words/Words/사무엘하.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
+                "file": "His Words/Words/사무엘하.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md"
+                "file": "His Words/Words/사무엘하.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "2eccc330305285b2",
   "lastOpenFiles": [
+    "His Words/성경공부/23.02.11 토요 성경공부.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Day Planners/Day Planner-20230210.md",
@@ -223,7 +224,6 @@
     "Day Planners/Day Planner-20230207.md",
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/Day Planner-20230205.md",
-    "Day Planners/Day Planner-20230204.md",
-    "Work/HR/MVC 멘토링 준비.md"
+    "Day Planners/Day Planner-20230204.md"
   ]
 }
