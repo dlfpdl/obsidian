@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf"
+                "file": "His Words/성경공부/23.02.11 토요 성경공부.md"
               }
             }
           },
@@ -229,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7b25af10bb3b4e1",
+  "active": "2eccc330305285b2",
   "lastOpenFiles": [
-    "His Words/성경공부/23.02.11 토요 성경공부.md",
     "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+    "His Words/성경공부/23.02.11 토요 성경공부.md",
     "His Words/Words/사무엘하.md",
     "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
