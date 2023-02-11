@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "His Words/성경공부/02.11 토요 성경공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "His Words/성경공부/02.11 토요 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md",
+                "file": "His Words/성경공부/02.11 토요 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/HR/스크럼 가이드.md"
+                "file": "His Words/성경공부/02.11 토요 성경공부.md"
               }
             }
           },
@@ -272,6 +272,7 @@
   },
   "active": "2eccc330305285b2",
   "lastOpenFiles": [
+    "Work/HR/스크럼 가이드.md",
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Day Planners/Day Planner-20230210.md",
     "Day Planners/Day Planner-20230209.md",
@@ -280,7 +281,6 @@
     "Day Planners/Day Planner-20230206.md",
     "Day Planners/Day Planner-20230205.md",
     "Day Planners/Day Planner-20230204.md",
-    "Work/HR/MVC 멘토링 준비.md",
-    "Work/HR/스크럼 가이드.md"
+    "Work/HR/MVC 멘토링 준비.md"
   ]
 }
