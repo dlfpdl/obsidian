@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b022fcfe420df903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230210.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2eccc330305285b2",
             "type": "leaf",
             "state": {
@@ -30,53 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41a2ce250187b1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de08e2f73aa574d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work/HR/기존 조직도.canvas",
-                "viewState": {
-                  "x": 279.21157582430095,
-                  "y": 608.9098659338878,
-                  "zoom": -0.19048001771067766,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "7d03b43f7dd105d3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work/HR/Work Flow.canvas",
-                "viewState": {
-                  "x": 446,
-                  "y": 173.5,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
