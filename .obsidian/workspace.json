@@ -18,24 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e92c5fd595df0bae",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b7b25af10bb3b4e1",
+            "id": "c6a4fe92cf27010a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf"
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md"
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md"
               }
             }
           },
@@ -230,9 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2eccc330305285b2",
+  "active": "c6a4fe92cf27010a",
   "lastOpenFiles": [
     "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+    "His Words/성경공부/23.02.12 청년 성경공부.md",
     "His Words/성경공부/23.02.11 토요 성경공부.md",
     "His Words/Words/사무엘하.md",
     "Work/HR/스크럼 가이드.md",
@@ -240,7 +237,6 @@
     "Day Planners/Day Planner-20230210.md",
     "Day Planners/Day Planner-20230209.md",
     "Day Planners/Day Planner-20230208.md",
-    "Day Planners/Day Planner-20230207.md",
-    "Day Planners/Day Planner-20230206.md"
+    "Day Planners/Day Planner-20230207.md"
   ]
 }
