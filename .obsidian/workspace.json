@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00a9a87f4a9def3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/에세이 & 시/밤하늘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
+                "file": "Thoughts/에세이 & 시/밤하늘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
+                "file": "Thoughts/에세이 & 시/밤하늘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/성경공부/23.02.12 청년 성경공부.md"
+                "file": "Thoughts/에세이 & 시/밤하늘.md"
               }
             }
           },
@@ -225,10 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6a4fe92cf27010a",
+  "active": "00a9a87f4a9def3f",
   "lastOpenFiles": [
-    "His Words/성경공부/23.02.05 성경공부.md",
     "His Words/성경공부/23.02.12 청년 성경공부.md",
+    "His Words/성경공부/23.02.05 성경공부.md",
     "His Words/Words/사무엘상.md",
     "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
     "His Words/성경공부/23.02.11 토요 성경공부.md",
