@@ -10,9 +10,9 @@
 
 ### CEO Work
 - [ ] Set Mission, Vision, Core Value, and Core Competency 
-	- [ ] Define Company’s Mission, Vision, Core Value and Compentence
+	- [ ] Define Company’s Mission, Vision, Core Value and Competence 
 		- [ ] Core Value: based-on community core values
-		- [ ] Core Competency: our key differentiation
+		- [ ] Core Competence: our key differentiation
 - [ ] Summarize Culture Case Study
 	- [ ] Toss
 	- [ ] 배민
