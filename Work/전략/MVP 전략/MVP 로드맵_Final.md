@@ -31,15 +31,22 @@
 - 멤버십 & 특화기능(유료 소모임)
 - 개인구독: 커스텀 & 랭크 제도
 - 프랍 & 굿즈 판매: 커뮤니티 판매
-- 이벤트
+- 이벤트(강연 등)
 
 # **6. 마일스톤**
 ### 스프린트 별 달성 목표
-Sprint 1 
-Sprint 2
-Sprint 3
-Sprint 4
-Sprint 5
-Sprint 6
-Sprint 7
-Sprint 8
+**Sprint 1**
+
+**Sprint 2**
+
+**Sprint 3**
+
+**Sprint 4**
+
+**Sprint 5**
+
+**Sprint 6**
+
+**Sprint 7**
+
+**Sprint 8**
