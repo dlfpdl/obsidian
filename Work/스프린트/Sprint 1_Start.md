@@ -6,3 +6,6 @@
 	- [ ] long-term goals
 	- [ ] short-term objectives
 	- [ ] Core Value: based-on community core values
+	- [ ] Core Competency: our key differentiation
+- [ ] MVP Roadmap
+	- [ ] Set 
