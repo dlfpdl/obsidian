@@ -86,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Notes.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Notes.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Notes.md"
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
               }
             }
           },
@@ -281,7 +280,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dd6c84677698470",
+  "active": "df3bb471b3382674",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230213.md",
     "Work/스프린트/Sprint 1_Start/Notes.md",
