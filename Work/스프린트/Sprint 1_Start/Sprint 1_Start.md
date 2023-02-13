@@ -3,10 +3,11 @@
 	- [ ] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
 	- [ ] Market Research: Size(top-down), Define Customers(top-down), Customer Features, Segments, Key Functions, Customer Interview etc
 		- [ ] Include References
-	- [ ] Summarize core-functions based **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
+	- [ ] Divide **core-functions** *2* **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
 	- [ ] Funnel Strategy 
 		- [ ] Design AARRR with Jussi
 	- [ ] BM
+- [ ] MVP → MLP Segment Expansion St
 - [ ] [[Fly Wheel & Content Supplier Strategy]](서포터즈, 커뮤니티 운영자 등)
 - [ ] B2B / B2G Proposal & PoC [[프로젝트 제안서]](Demands Prediction & Proof)
 
