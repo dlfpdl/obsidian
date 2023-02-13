@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "d0f0176e9f455145",
@@ -190,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/HR/CCMV 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/HR/CCMV 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/HR/CCMV 회의.md"
-              }
+              "state": {}
             }
           },
           {
@@ -301,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,17 +313,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "722649c5b05691a5",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 1_Start/Notes.md",
+    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/HR/CCMV 회의.md",
     "Day Planners/Day Planner-20230213.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
-    "Work/스프린트/Sprint 1_Start/Notes.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
-    "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
-    "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md"
+    "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md"
   ]
 }
