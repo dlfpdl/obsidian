@@ -1,4 +1,3 @@
-### MVP 로드맵 
 1. **Goals**
 	- SMART Goal Setting
 	- Goal KPIs
