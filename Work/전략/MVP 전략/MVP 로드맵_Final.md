@@ -1,6 +1,15 @@
 # **1. Goals**
-### Smart 
+### SMART Goal Setting
+
+### Goal KPIs
+
+### MVP 핵심가치 선정
 # **2. Market Research**
+### 시장규모
+
+### 타겟시장
+
+### 타겟 고객 정ㅇ
 # **3. 가설 & 검증**
 
 # **4. 퍼널 설계**
