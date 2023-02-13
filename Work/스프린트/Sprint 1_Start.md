@@ -1,9 +1,9 @@
 ### CSO Work
 - [ ] MVP Roadmap
 	- [ ] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
-	- [ ] 시장 분석 정리: 고객정의, 특징, 세그멘테이션, 필요기능 등
+	- [ ] 시장 분석 정리: 시장규모(top-down), 고객정의(top-down), 특징, 세그멘테이션, 필요기능, 고객 인터뷰 등
 		- [ ] Reference 여럿
-	- [ ] 핵심기능 정리
+	- [ ] 핵심기능 위주 프로젝트 정리 & 제안서(with Swishee)
 - [ ] 
 
 ### CEO Work
