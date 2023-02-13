@@ -34,7 +34,12 @@
 - 이벤트
 
 # **6. 마일스톤**
-
-
-# **7. 액션플랜**
-> 1. 스프린트 1: 
+### 스프린트 별 달성 목표
+Sprint 1 
+Sprint 2
+Sprint 3
+Sprint 4
+Sprint 5
+Sprint 6
+Sprint 7
+Sprint 8
