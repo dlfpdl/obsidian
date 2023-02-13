@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
+                "file": "Day Planners/Day Planner-20230213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
+                "file": "Day Planners/Day Planner-20230213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵.md"
+                "file": "Day Planners/Day Planner-20230213.md"
               }
             }
           },
@@ -268,8 +268,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70da9f64ca3bcd07",
+  "active": "722649c5b05691a5",
   "lastOpenFiles": [
+    "Work/전략/MVP 전략/MVP 로드맵.md",
     "Day Planners/Day Planner-20230213.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/전략/MVP.md",
@@ -277,7 +278,6 @@
     "Images/Pasted image 20230210135025.png",
     "Images/Pasted image 20230210135057.png",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
-    "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md"
   ]
