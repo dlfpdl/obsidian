@@ -7,6 +7,7 @@
 	- [ ] Segment Expansion Strategy 
 	- [ ] BM
 - [ ] Fly Wheel & Content Supplier Strategy(서포터즈, 커뮤니티 운영자 등)
+- [ ] B2B / B2G Proposal & PoC(Demands Prediction & Proof)
 
 ### CEO Work
 - [ ] Set Mission, Vision, Core Value, and Core Competency 
