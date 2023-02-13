@@ -20,7 +20,7 @@
 	- [ ] Marketer
 	- [ ] PM
 - [ ] 청창사 체크
-- [ ] 심재훈 심사역님: AI 기반 기획
-	- [ ] ChatGPT 기반 모물보 NPC OR KoGPT
+- [ ] 심재훈 심사역님: AI 기획
+	- [ ] ChatGPT 기반 AMA NPC OR KoGPT
+	- [ ] 
 - [ ] 노무사 미팅(스톡옵션 & 월급인상 관련)
-- [ ] 
