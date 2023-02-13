@@ -29,8 +29,10 @@
 
 # **2. Market Research**
 ### 시장규모
-- Top-Down Market Research 
-	- 전체 에듀 테크 시장(TAM)
+- Top-Down 시장조사
+	- 전체 에듀 테크 시장
+	- 전체 자기계발 소모임 시장
+	- 예상 사용자 수
 	- 
 - Bottom-Up Market Research 
 	- 전체 메타버스 에듀 콘텐츠 커뮤니티 시장
