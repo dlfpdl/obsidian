@@ -16,4 +16,8 @@
 - [ ] Summarize Culture Case Study
 	- [ ] Toss
 	- [ ] 배민
-- [ ] 
+- [ ] Mentoring
+	- [ ] Marketer
+	- [ ] PM
+- [ ] 청창사 체크
+- [ ] 심재훈 심사역님: 
