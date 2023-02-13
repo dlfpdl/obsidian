@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -223,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,6 +240,7 @@
   "active": "00a9a87f4a9def3f",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230213.md",
+    "Work/스프린트/Sprint 1_Start.md",
     "Day Planners/Day Planner-20230210.md",
     "Day Planners/Day Planner-20230211.md",
     "Day Planners/Day Planner-20230212.md",
@@ -249,7 +248,6 @@
     "Work/HR/Work Flow.canvas",
     "Thoughts/에세이 & 시/하늘과 하늘.md",
     "His Words/성경공부/23.02.12 청년 성경공부.md",
-    "His Words/성경공부/23.02.05 성경공부.md",
-    "His Words/Words/사무엘상.md"
+    "His Words/성경공부/23.02.05 성경공부.md"
   ]
 }
