@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +238,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00a9a87f4a9def3f",
+  "active": "d5cf1f11271a41e5",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230213.md",
     "Day Planners/Day Planner-20230210.md",
