@@ -12,8 +12,11 @@
 3. **가설 & 검증**
 	- 핵심기능 별 1)문제 2)솔루션 3)기대효과
 4. **퍼널 설계**
-	- Acquisition(주요도: )
-	- 
+	- Acquisition(주요도: 💡)
+	- Activation(주요도: 💡💡)
+	- Retention(주요도: 💡)
+	- Referrel
+	- Revenue
 5. **BM & 마일스톤**
 	- **BM**
 		- 멤버십 & 특화기능(유료 소모임)
