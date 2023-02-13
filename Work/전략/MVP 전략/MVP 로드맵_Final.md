@@ -31,10 +31,10 @@
 ### 시장규모
 - Top-Down Market Research 
 	- 전체 에듀 테크 시장(TAM)
+	- 
+- Bottom-Up Market Research 
 	- 전체 메타버스 에듀 콘텐츠 커뮤니티 시장
 	- MVP 활용 가능 에듀 커뮤니티 시장
-- 
-
 ### 타겟시장
 
 ### 타겟 고객 정의
