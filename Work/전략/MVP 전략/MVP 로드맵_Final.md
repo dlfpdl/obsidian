@@ -29,6 +29,9 @@
 
 # **2. Market Research**
 ### 시장규모
+- Top-Down Market Research 
+	- 전체 에드 테크 시장(TAM)
+	- 활용 가능한 
 
 ### 타겟시장
 
