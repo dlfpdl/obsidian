@@ -7,8 +7,8 @@
 	- [ ] Funnel Strategy 
 		- [ ] Design AARRR with Jussi
 	- [ ] BM
-- [ ] Fly Wheel & Content Supplier Strategy(서포터즈, 커뮤니티 운영자 등)
-- [ ] B2B / B2G Proposal & PoC(Demands Prediction & Proof)
+- [ ] [[Fly Wheel & Content Supplier Strategy]](서포터즈, 커뮤니티 운영자 등)
+- [ ] B2B / B2G Proposal & PoC [[프로젝트 제안서]](Demands Prediction & Proof)
 
 ### CEO Work
 - [ ] Set Mission, Vision, Core Value, and Core Competency 
