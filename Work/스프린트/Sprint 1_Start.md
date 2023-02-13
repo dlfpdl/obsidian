@@ -4,7 +4,8 @@
 	- [ ] Market Research: Size(top-down), Define Customers(top-down), Customer Features, Segments, Key Functions, Customer Interview etc
 		- [ ] Include References
 	- [ ] Summarize core-functions based **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
-	- [ ] Segment Expansion Strategy 
+	- [ ] Funnel Strategy 
+		- [ ] Design AARRR with Jussi
 	- [ ] BM
 - [ ] Fly Wheel & Content Supplier Strategy(서포터즈, 커뮤니티 운영자 등)
 - [ ] B2B / B2G Proposal & PoC(Demands Prediction & Proof)
