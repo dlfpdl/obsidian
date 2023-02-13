@@ -141,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20230213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day Planners/Day Planner-20230213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/Day Planner-20230213.md"
+              }
             }
           },
           {
@@ -263,7 +267,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "722649c5b05691a5",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Day Planners/Day Planner-20230213.md",
