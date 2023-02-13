@@ -1,5 +1,5 @@
 ### CSO Work
-- [ ] MVP Roadmap [[MVP ]]
+- [ ] MVP Roadmap [[MVP 로드맵]]
 	- [ ] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
 	- [ ] Market Research: Size(top-down), Define Customers(top-down), Customer Features, Segments, Key Functions, Customer Interview etc
 		- [ ] Include References
