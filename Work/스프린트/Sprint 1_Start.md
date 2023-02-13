@@ -21,6 +21,6 @@
 	- [ ] PM
 - [ ] 청창사 체크
 - [ ] 심재훈 심사역님: AI 기획
-	- [ ] ChatGPT 기반 AMA NPC OR KoGPT
-	- [ ] 
+	- [ ] ChatGPT based AMA NPC OR KoGPT
+	- [ ] Graphic Resources Optimizer
 - [ ] 노무사 미팅(스톡옵션 & 월급인상 관련)
