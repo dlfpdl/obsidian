@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eccc330305285b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.11 토요 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a4fe92cf27010a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00a9a87f4a9def3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Work/전략/CSO_B2B & B2G 영업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5e37586c677d7e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +32,37 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "d0f0176e9f455145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70da9f64ca3bcd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/전략/MVP 전략/MVP 로드맵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df3bb471b3382674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -246,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,9 +261,9 @@
   "lastOpenFiles": [
     "Work/전략/MVP 전략/MVP 로드맵.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
-    "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/청년창업사관학교_TO-DOs.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
     "Day Planners/Day Planner-20230213.md",
