@@ -3,6 +3,9 @@
 > 런칭 3개월 안에 가입자수 1,000 / 500 MAU, NPS 60. 
 
 ### Goal KPIs
+최우선 KPIs
+
+일반 KPIs
 
 ### MVP 핵심가치 선정
 
