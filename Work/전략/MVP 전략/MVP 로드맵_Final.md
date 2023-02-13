@@ -12,6 +12,13 @@
 - 그룹 대화 생성 & 참여율
 - NPS
 - 고객 인터뷰(고객만족도)
+- CLTV
+- 총매출
+- 구독전환율
+- DAU
+- Retention Rate
+- Churn Rate
+- 
 
 ### MVP 핵심가치 선정
 
