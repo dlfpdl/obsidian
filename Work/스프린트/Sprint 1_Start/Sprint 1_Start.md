@@ -27,3 +27,4 @@
 	- [ ] ChatGPT based AMA NPC OR KoGPT
 	- [ ] Graphic Resources Optimizer
 - [ ] 노무사 미팅(스톡옵션 & 월급인상 관련)
+- [ ] 시드팁스 현물증빙 관련 이소정님 컨택
