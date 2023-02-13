@@ -6,12 +6,12 @@
 	- [ ] 핵심기능 위주 프로젝트 정리 & 제안서(with Swishee)
 	- [ ] 세그먼트 확장 전략
 	- [ ] BM
-- [ ] 플라이휠 & 콘텐츠 공급자 전략수립(서포터즈, 커뮤니티 운영자 등)
-- [ ] 
+- [ ] Fly Wheel & Content Suppli(서포터즈, 커뮤니티 운영자 등)
 
 ### CEO Work
 - [ ] Set Mission, Vision, Core Value, and Core Competency 
 	- [ ] Define Company’s Mission, Vision, Core Value and Compentency 
 		- [ ] Core Value: based-on community core values
 		- [ ] Core Competency: our key differentiation
-- 
+- [ ] Culture Case Study
+	- [ ] 
