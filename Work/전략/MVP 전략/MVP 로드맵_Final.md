@@ -1,5 +1,6 @@
 # **1. Goals**
 ### SMART Goal Setting
+> 6 1,000 가입자수 and 500 monthly active users on the metaverse platform within the first 3 months of launching, with a value proposition of providing a valuable and engaging study environment for busy and lonely people.
 
 ### Goal KPIs
 
