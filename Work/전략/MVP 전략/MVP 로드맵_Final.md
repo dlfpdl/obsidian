@@ -1,6 +1,6 @@
 # **1. Goals**
 ### SMART Goal Setting
-> 런칭 3개월 안에 가입자수 1,000 / 500 MAU
+> 런칭 3개월 안에 가입자수 1,000 / 500 MAU, NPS 60. 
 
 ### Goal KPIs
 
