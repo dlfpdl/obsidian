@@ -4,6 +4,7 @@
 ### Goal KPIs
 
 ### MVP 핵심가치 선정
+
 # **2. Market Research**
 ### 시장규모
 
