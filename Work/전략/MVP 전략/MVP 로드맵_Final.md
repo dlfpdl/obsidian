@@ -59,12 +59,12 @@
 ### 핵심기능 1: Activity Board
 - **Problem & Needs**: 친목/콘텐츠(관심사)/심심풀이
 - **Solution**: 첫 랜딩 때 Activity Board(소모임 / 그룹대화)
-- **Expected Benefit**: “첫 행복한 경험” 유도 & 콘텐츠 공급
+- **Expected Benefit**: “<u>첫 행복한 경험</u>” 유도 & 콘텐츠 공급
 
 ### 핵심기능 2: 공간 + 소그룹(대화)
-- **Problem & Needs**:
-- **Solution**:
-- **Expected Benefit**:
+- **Problem & Needs**: 
+- **Solution**: 
+- **Expected Benefit**: 
 
 ### 핵심기능 3: 특화기능
 - Problem & Needs:
