@@ -28,7 +28,7 @@
 1. See: 인스타 인증 이벤트
 2. Click: “@incyeowoo 태그” OR “링크 도입”
 3. Desire to share: 함께하는 스터디 카페/~독서모임/수고했어, 오늘도 등
-4. Share: 인스타 
+4. Share: 인스타 Share 
 5. Iterate!
 ### **Revenue**
 - BM
