@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d0f0176e9f455145",
@@ -98,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/전략/CSO_B2B & B2G 영업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/전략/CSO_B2B & B2G 영업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+                "file": "Work/전략/CSO_B2B & B2G 영업.md"
               }
             }
           },
@@ -294,13 +292,13 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "df3bb471b3382674",
+  "active": "00a9a87f4a9def3f",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
     "Work/스프린트/Sprint 1_Start/Notes.md",
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/핵심기능 1) 소모임 & 그룹대화(Activity Board).md",
     "Work/스프린트/Sprint 1_Start/핵심기능 2) 공간 + 활동(소통).md",
