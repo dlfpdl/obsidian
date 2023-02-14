@@ -5,10 +5,12 @@
 - B2B/B2G/B2COM 파트너십 & 연계
 
 ### **Activation**
-> [!info] Needs
-> **Study Segment Needs**:
+> [!info] **Study Segment Needs**:
 >  1. @ 자신의 “공부분야” 관련 콘텐츠(이벤트) → 인증/동기부여 필요
 >  2. @ 소통-힐링 그룹 대화 → 외로움/친목 필요 
+
+> 한번의 “자신의 공부 분야” 기반의 **이벤트, 소모임, 그룹대화 참여**
+> 
 
 ### **Retention**
 - ! 
