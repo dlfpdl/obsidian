@@ -101,10 +101,13 @@
 
 # **6. 마일스톤**
 ### Sprint 1: Post Board (40%)
-- 
+Dev:
+Des:
+Mod:
+PO:
 
 ### Sprint 2: Post Board (100%)
-- 
+
 
 ### Sprint 3: Activity Post (100%)
 - 
