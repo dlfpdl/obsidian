@@ -57,10 +57,14 @@
 > 3. 기대효과
 
 ### 핵심기능 1: Activity Board
+- Problem & Needs:
+- Solution:
 
 ### 핵심기능 2: 공간 + 소그룹(대화)
+- 
 
-### 핵심기능 3: 
+### 핵심기능 3: 특화기능
+- 
 
 # **4. 퍼널 설계**
 [[Funnel Design]]
