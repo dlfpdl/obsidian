@@ -4,5 +4,6 @@
   "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-blue-lt",
   "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-dark-lt",
-  "obsidian-prism-theme@@graph-line-color-lt": "var(--background-secondary-alt)"
+  "obsidian-prism-theme@@graph-line-color-lt": "var(--background-secondary-alt)",
+  "obsidian-prism-theme@@scroll-bar-size": 12
 }
