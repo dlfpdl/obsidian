@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md"
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
               }
             }
           },
@@ -294,7 +294,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "6f0e5ce4f4370033",
+  "active": "0dd6c84677698470",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
