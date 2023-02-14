@@ -62,7 +62,7 @@
 - **Expected Benefit**: “<u>첫 행복한 경험</u>” 유도 & 콘텐츠 공급
 
 ### 핵심기능 2: 공간 + 소그룹(대화)
-- **Problem & Needs**: 
+- **Problem & Needs**: 대화 몰입/정서적교류/
 - **Solution**: 
 - **Expected Benefit**: 
 
