@@ -1,8 +1,8 @@
 ### CSO Work
 - [ ] MVP Roadmap [[MVP 로드맵_Rough]]
-	- [ ] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
-	- [ ] Market Research: Size(top-down), Define Customers(bottom-up), Customer                                                           Features, Segments, Key Functions, Customer Interview etc
-		- [ ] Include References
+	- [x] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
+	- [x] Market Research: Size(top-down), Define Customers(bottom-up), Customer                                                           Features, Segments, Key Functions, Customer Interview etc
+		- [x] Include References
 	- [ ] Divide **core-functions** *2* **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
 	- [ ] Funnel Strategy 
 		- [ ] Design AARRR with Jussi
