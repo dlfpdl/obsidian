@@ -64,12 +64,12 @@
 ### 핵심기능 2: 공간 + 소그룹(대화)
 - **Problem & Needs**: 대화 몰입/외로움/콘텐츠(관심사)
 - **Solution**: 공간 내 보이스 & 챗 기반 소통
-- **Expected Benefit**: “지속가능한 콘텐츠 생산 & 몰입형 웹”
+- **Expected Benefit**: “지속가능한 콘텐츠 생산 & 콘텐츠 기반 몰입가능한 공간”
 
 ### 핵심기능 3: 특화기능
-- Problem & Needs:
-- Solution:
-- Expected Benefit:
+- **Problem & Needs**: 
+- **Solution**: 
+- **Expected Benefit**: 
 
 # **4. 퍼널 설계**
 [[Funnel Design]]
