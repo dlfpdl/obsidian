@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/Words/사무엘하.md",
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/Words/사무엘하.md"
+                "file": "His Words/성경공부/23.02.12 청년 성경공부.md"
               }
             }
           },
@@ -265,15 +265,15 @@
   },
   "active": "9e129afa430c7a52",
   "lastOpenFiles": [
+    "His Words/성경공부/23.02.11 토요 성경공부.md",
+    "His Words/성경공부/23.02.12 청년 성경공부.md",
+    "His Words/Words/사무엘하.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-    "His Words/Words/사무엘하.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md",
-    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
-    "Work/스프린트/Sprint 1_Start/Notes.md",
-    "Work/스프린트/Sprint 1_Start/핵심기능 1) 소모임 & 그룹대화(Activity Board).md"
+    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md"
   ]
 }
