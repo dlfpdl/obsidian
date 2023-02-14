@@ -62,17 +62,22 @@
 - **Problem & Needs**: 친목/콘텐츠(관심사)/심심풀이
 - **Solution**: 첫 랜딩 때 Activity Board(소모임 / 그룹대화)
 - **Expected Value**: “<u>첫 행복한 경험</u>” 유도 & 콘텐츠 공급
-- 세부기능
+- **세부기능**:
+	- 
 
 ### [[핵심기능 2) 공간 + 활동(소통)]]
 - **Problem & Needs**: 힐링에 대한 니즈/외로움/콘텐츠(관심사)
 - **Solution**: 공간 내 보이스 & 챗 기반 소통
 - **Expected Value**: “지속가능한 콘텐츠 생산 & 콘텐츠 기반 몰입가능한 공간”
+- **세부기능**:
+	- 
 
 ### [[핵심기능 3) 특화기능]]
 - **Problem & Needs**: 주제(관심사) 별 특화기능 부족: Facebook, Reddit, DC 등 **같은 게시판에 때려박는 구조**.
 - **Solution**: 포스트 & 공간 특화기능
 - **Expected Value**: 타 커뮤니티와의 차별화된 콘텐츠/기능
+- **세부기능**:
+	- 
 
 # **4. 퍼널 설계**
 [[Funnel Design]]
@@ -93,7 +98,7 @@
 
 ### Sprint 2: Post Board (100%)
 
-### Sprint 3: 
+### Sprint 3: Activity Post
 
 ### Sprint 4: 
 
