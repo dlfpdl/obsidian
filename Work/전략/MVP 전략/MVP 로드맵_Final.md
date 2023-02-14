@@ -56,12 +56,12 @@
 > 2. 해당 핵심기능이 솔루션이 되는 논리
 > 3. 기대효과
 
-### 핵심기능 1: Activity Board
+### 핵심기능 1: 소모임 & 그룹대화(Activity Board)
 - **Problem & Needs**: 친목/콘텐츠(관심사)/심심풀이
 - **Solution**: 첫 랜딩 때 Activity Board(소모임 / 그룹대화)
 - **Expected Benefit**: “<u>첫 행복한 경험</u>” 유도 & 콘텐츠 공급
 
-### 핵심기능 2: 공간 + 소그룹(대화)
+### 핵심기능 2: 공간 + 활동(소통)
 - **Problem & Needs**: 힐링에 대한 니즈/외로움/콘텐츠(관심사)
 - **Solution**: 공간 내 보이스 & 챗 기반 소통
 - **Expected Benefit**: “지속가능한 콘텐츠 생산 & 콘텐츠 기반 몰입가능한 공간”
