@@ -101,25 +101,49 @@
 
 # **6. 마일스톤**
 ### Sprint 1: Post Board (40%)
-Dev:
-Des:
-Mod:
-PO:
+- Dev:
+- Des:
+- Mod:
+- PO:
 
 ### Sprint 2: Post Board (100%)
-
+- Dev:
+- Des:
+- Mod:
+- PO:
 
 ### Sprint 3: Activity Post (100%)
-- 
+- Dev:
+- Des:
+- Mod:
+- PO:
 
-### Sprint 4: Space + Activity 
-- Change Landing
-- 
+### Sprint 4: Space + Activity(landing change)
+- Dev:
+- Des:
+- Mod:
+- PO:
 
 ### Sprint 5: 
+- Dev: 
+- Des: 
+- Mod:
+- PO: 
 
 ### Sprint 6: 
+- Dev:
+- Des:
+- Mod:
+- PO:
 
 ### Sprint 7: 
+- Dev:
+- Des:
+- Mod:
+- PO:
 
-### Sprint 8
+### Sprint 8:
+- Dev:
+- Des:
+- Mod:
+- PO:
