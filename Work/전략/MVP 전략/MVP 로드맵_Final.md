@@ -124,7 +124,7 @@
 - Mod:
 - PO:
 
-### Sprint 5: Space + Activity(landing change)
+### Sprint 5: **Space + Activity(landing change)**
 - Dev: 
 - Des: 
 - Mod:
