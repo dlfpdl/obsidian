@@ -128,19 +128,19 @@
 - Mod:
 - PO: 
 
-### Sprint 6: 
+### Sprint 6: **Space + Activity(landing change)**
 - Dev:
 - Des:
 - Mod:
 - PO:
 
-### Sprint 7: 
+### Sprint 7: **특화기능(40%)**
 - Dev:
 - Des:
 - Mod:
 - PO:
 
-### Sprint 8:
+### Sprint 8: **특화기능(80%)**
 - Dev:
 - Des:
 - Mod:
