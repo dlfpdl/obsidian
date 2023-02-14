@@ -157,7 +157,7 @@
       {
         "id": "a6b995922f5a0336",
         "type": "tabs",
-        "dimension": 45.520833333333336,
+        "dimension": 31.03448275862069,
         "children": [
           {
             "id": "fb69b03b82b22974",
@@ -165,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,7 +243,7 @@
       {
         "id": "a483fb2320cc45cc",
         "type": "tabs",
-        "dimension": 21.979166666666668,
+        "dimension": 36.4367816091954,
         "children": [
           {
             "id": "d5cf1f11271a41e5",
@@ -262,7 +258,7 @@
       {
         "id": "e30981606cbbff61",
         "type": "tabs",
-        "dimension": 32.49999999999999,
+        "dimension": 32.52873563218391,
         "children": [
           {
             "id": "3e26e742e23f85cd",
@@ -276,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,10 +288,10 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "6f0e5ce4f4370033",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
-    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
