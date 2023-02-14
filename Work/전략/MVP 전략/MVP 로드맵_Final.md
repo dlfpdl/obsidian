@@ -88,19 +88,18 @@
 - 이벤트(강연 등)
 
 # **6. 마일스톤**
-### 스프린트 별 달성 목표
-Sprint 1
+### Sprint 1
 
-**Sprint 2**
+### Sprint 2
 
-**Sprint 3**
+### Sprint 3
 
-**Sprint 4**
+### Sprint 4
 
-**Sprint 5**
+### Sprint 5
 
-**Sprint 6**
+### Sprint 6
 
-**Sprint 7**
+### Sprint 7
 
-**Sprint 8**
+### Sprint 8
