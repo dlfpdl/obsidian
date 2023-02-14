@@ -67,7 +67,7 @@
 - **Expected Benefit**: “지속가능한 콘텐츠 생산 & 콘텐츠 기반 몰입가능한 공간”
 
 ### 핵심기능 3: 특화기능
-- **Problem & Needs**: 주제(관심사) 별 특화기능 부족: Facebook, Reddit, 
+- **Problem & Needs**: 주제(관심사) 별 특화기능 부족: Facebook, Reddit, DC 등 **같은 게시판에 때려박는 구조**.
 - **Solution**: 
 - **Expected Benefit**: 
 
