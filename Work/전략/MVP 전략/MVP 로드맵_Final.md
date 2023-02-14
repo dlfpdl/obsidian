@@ -62,6 +62,7 @@
 - **Problem & Needs**: 친목/콘텐츠(관심사)/심심풀이
 - **Solution**: 첫 랜딩 때 Activity Board(소모임 / 그룹대화)
 - **Expected Value**: “<u>첫 행복한 경험</u>” 유도 & 콘텐츠 공급
+- 세부기능
 
 ### [[핵심기능 2) 공간 + 활동(소통)]]
 - **Problem & Needs**: 힐링에 대한 니즈/외로움/콘텐츠(관심사)
@@ -90,7 +91,7 @@
 # **6. 마일스톤**
 ### Sprint 1: Post Board (40%)
 
-### Sprint 2: 
+### Sprint 2: Post Board (100%)
 
 ### Sprint 3: 
 
@@ -98,8 +99,8 @@
 
 ### Sprint 5: 
 
-### Sprint 6
+### Sprint 6: 
 
-### Sprint 7
+### Sprint 7: 
 
 ### Sprint 8
