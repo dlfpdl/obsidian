@@ -68,7 +68,7 @@
 
 ### 핵심기능 3: 특화기능
 - **Problem & Needs**: 주제(관심사) 별 특화기능 부족: Facebook, Reddit, DC 등 **같은 게시판에 때려박는 구조**.
-- **Solution**: 포스트 & 
+- **Solution**: 포스트 & 공간 특화기능
 - **Expected Benefit**: 
 
 # **4. 퍼널 설계**
