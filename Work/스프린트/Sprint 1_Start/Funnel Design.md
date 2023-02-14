@@ -25,8 +25,8 @@
 > - ! 주의: 콘텐츠가 지속적으로 성장하고, 선택의 폭이 넓어져야 함.
 
 ### **Referral(바이럴 루프)**
-1. See: ! 인스타 인증: 인증 관련 이벤트
-2. Cleck:
+1. See: 인스타 인증 이벤트
+2. Click: 
 3. Desire to share:
 4. Share:
 5. Iterate!
