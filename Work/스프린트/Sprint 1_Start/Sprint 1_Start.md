@@ -3,7 +3,7 @@
 	- [x] Set Specific, Measurable, Achievable, Relevant, and Time-bound(SMART) goals for MVP 
 	- [x] Market Research: Size(top-down), Define Customers(bottom-up), Customer                                                           Features, Segments, Key Functions, Customer Interview etc
 		- [x] Include References
-	- [ ] Divide **core-functions** *2* **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
+	- [x] Divide **core-functions** *2* **projects(핵심기능 위주 프로젝트)** & Proposal(with Swishee)
 	- [ ] Funnel Strategy 
 		- [ ] Design AARRR with Jussi
 	- [ ] BM
@@ -27,4 +27,4 @@
 	- [ ] ChatGPT based AMA NPC OR KoGPT
 	- [ ] Graphic Resources Optimizer
 - [ ] 노무사 미팅(스톡옵션 & 월급인상 관련)
-- [ ] 시드팁스 현물증빙 관련 이소정님 컨택
+- [x] 시드팁스 현물증빙 관련 이소정님 컨택

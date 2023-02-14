@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "70da9f64ca3bcd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0dd6c84677698470",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d0f0176e9f455145",
@@ -92,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
               }
             }
           },
@@ -305,17 +294,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "0dd6c84677698470",
+  "active": "df3bb471b3382674",
   "lastOpenFiles": [
-    "핵심기능 3) 특화기능.md",
-    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-    "핵심기능 2) 공간 + 활동(소통).md",
-    "핵심기능 1) 소모임 & 그룹대화(Activity Board).md",
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
-    "Work/스프린트/Sprint 1_Start/Notes.md",
-    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
-    "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md"
+    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
+    "Work/스프린트/Sprint 1_Start/Notes.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+    "Work/스프린트/Sprint 1_Start/핵심기능 1) 소모임 & 그룹대화(Activity Board).md",
+    "Work/스프린트/Sprint 1_Start/핵심기능 2) 공간 + 활동(소통).md",
+    "Work/스프린트/Sprint 1_Start/핵심기능 3) 특화기능.md",
+    "Work/전략/CSO_B2B & B2G 영업.md"
   ]
 }
