@@ -98,9 +98,9 @@
 
 ### Sprint 2: Post Board (100%)
 
-### Sprint 3: Activity Post
+### Sprint 3: Activity Post (100%)
 
-### Sprint 4: 
+### Sprint 4: Login + Landing
 
 ### Sprint 5: 
 
