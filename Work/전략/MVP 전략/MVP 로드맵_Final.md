@@ -70,6 +70,8 @@
 - **Solution**: 공간 내 보이스 & 챗 기반 소통
 - **Expected Value**: “지속가능한 콘텐츠 생산 & 콘텐츠 기반 몰입가능한 공간”
 - **세부기능**:
+	- 로그인
+	- 아바타
 	- 
 
 ### [[핵심기능 3) 특화기능]]
@@ -95,12 +97,17 @@
 
 # **6. 마일스톤**
 ### Sprint 1: Post Board (40%)
+- 
 
 ### Sprint 2: Post Board (100%)
+- 
 
 ### Sprint 3: Activity Post (100%)
+- 
 
-### Sprint 4: Login + Landing
+### Sprint 4: Space + Activity 
+- Change Landing
+- 
 
 ### Sprint 5: 
 
