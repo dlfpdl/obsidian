@@ -88,7 +88,7 @@
 - 이벤트(강연 등)
 
 # **6. 마일스톤**
-### Sprint 1: Post Board (50%)
+### Sprint 1: Post Board (40%)
 
 ### Sprint 2
 
