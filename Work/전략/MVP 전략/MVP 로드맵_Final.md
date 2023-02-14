@@ -100,25 +100,25 @@
 - 이벤트(강연 등)
 
 # **6. 마일스톤**
-### Sprint 1: Post Board (40%)
+### Sprint 1: **Post Board (40%)**
 - Dev:
 - Des:
 - Mod:
 - PO:
 
-### Sprint 2: Post Board (100%)
+### Sprint 2: **Post Board (100%)**
 - Dev:
 - Des:
 - Mod:
 - PO:
 
-### Sprint 3: Activity Post (100%)
+### Sprint 3: **Activity Post (100%)**
 - Dev:
 - Des:
 - Mod:
 - PO:
 
-### Sprint 4: Space + Activity(landing change)
+### Sprint 4: **Space + Activity(landing change)**
 - Dev:
 - Des:
 - Mod:
