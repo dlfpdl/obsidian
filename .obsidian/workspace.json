@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d0f0176e9f455145",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/에세이 & 시/하늘과 하늘.md"
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
               }
             }
           },
@@ -306,17 +306,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "70da9f64ca3bcd07",
+  "active": "8ff950373b1cf16e",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 1_Start/Notes.md",
+    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
+    "Thoughts/에세이 & 시/하늘과 하늘.md",
     "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
-    "Work/스프린트/Sprint 1_Start/Notes.md",
     "Work/HR/CCMV 회의.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
-    "Work/HR/MVC 멘토링 준비.md",
-    "Day Planners/Day Planner-20230213.md",
-    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md"
+    "Work/HR/MVC 멘토링 준비.md"
   ]
 }
