@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
+                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d0f0176e9f455145",
@@ -160,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Thoughts/에세이 & 시/하늘과 하늘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
+                "file": "Thoughts/에세이 & 시/하늘과 하늘.md"
               }
             }
           },
@@ -306,8 +306,9 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "8ff950373b1cf16e",
+  "active": "70da9f64ca3bcd07",
   "lastOpenFiles": [
+    "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
@@ -316,7 +317,6 @@
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Day Planners/Day Planner-20230213.md",
-    "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md"
   ]
 }
