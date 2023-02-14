@@ -90,13 +90,13 @@
 # **6. 마일스톤**
 ### Sprint 1: Post Board (40%)
 
-### Sprint 2
+### Sprint 2: 
 
-### Sprint 3
+### Sprint 3: 
 
-### Sprint 4
+### Sprint 4: 
 
-### Sprint 5
+### Sprint 5: 
 
 ### Sprint 6
 
