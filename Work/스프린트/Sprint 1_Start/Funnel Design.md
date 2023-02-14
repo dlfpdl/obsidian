@@ -1,5 +1,14 @@
-### Acquisition
-### Activation
-### Retention
-### Referral
-### 
+### **Acquisition**
+- 
+
+### **Activation**
+- 
+
+### **Retention**
+- 
+
+### **Referral**
+- 
+
+### **Revenue**
+- 
