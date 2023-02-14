@@ -24,5 +24,14 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }
