@@ -1,6 +1,6 @@
 # **1. Goals**
 >[!tip] SMART Goal Setting
-런칭 3개월 안에 가입자수 1,000 / 500 MAU, NPS 60. 
+런칭 3개월 안에 가입자수 1,000 / 500 MAU, NPS 60, 구성원의 성장, 동기부여, 힐링을 최우선으로 하는 “공동체”를 만들다.
 
 ### Goal KPIs
 > [!tip] 최우선 KPIs
