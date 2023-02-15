@@ -12,17 +12,17 @@
 - [ ] [[Fly Wheel & Content Supplier Strategy]](서포터즈, 커뮤니티 운영자 등)
 
 ### CEO Work
-- [ ] Set Mission, Vision, Core Value, and Core Competency 
-	- [ ] Define Company’s Mission, Vision, Core Value and Competence 
-		- [ ] Core Value: based-on community core values
-		- [ ] Core Competence: our key differentiation
+- [x] Set Mission, Vision, Core Value, and Core Competency 
+	- [x] Define Company’s Mission, Vision, Core Value and Competence 
+		- [x] Core Value: based-on community core values
+		- [x] Core Competence: our key differentiation
 - [ ] Summarize Culture Case Study
 	- [ ] Toss
 	- [ ] 배민
 - [ ] Mentoring
 	- [ ] Marketer
 	- [ ] PM
-- [ ] 청창사 체크
+- [x] 청창사 체크(금)
 - [ ] 심재훈 심사역님: AI 기획
 	- [ ] ChatGPT based AMA NPC OR KoGPT
 	- [ ] Graphic Resources Optimizer
