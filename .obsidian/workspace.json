@@ -13,26 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/전략/CSO_B2B & B2G 영업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1793aae47e008d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Day Planners/Day Planner-20230215.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3a70c5998b2c1078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6801b8560c631eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Day Planners/Day Planner-20230215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Day Planners/Day Planner-20230215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md"
+                "file": "Day Planners/Day Planner-20230215.md"
               }
             }
           },
@@ -226,17 +231,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1793aae47e008d36",
+  "active": "00a9a87f4a9def3f",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Day Planners/Day Planner-20230215.md",
+    "Work/전략/CSO_B2B & B2G 영업.md",
+    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "His Words/성경공부/23.02.12 청년 성경공부.md",
     "Work/HR/MVC 멘토링 준비.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/전략/사업계획서_청년창업사관학교.md",
     "His Words/성경공부/23.02.11 토요 성경공부.md",
-    "His Words/성경공부/23.02.04 성경공부.md",
-    "His Words/Words/마태복음.md",
-    "His Words/Words/사무엘하.md",
-    "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+    "His Words/성경공부/23.02.04 성경공부.md"
   ]
 }
