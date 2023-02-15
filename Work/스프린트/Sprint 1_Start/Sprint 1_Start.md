@@ -7,7 +7,7 @@
 	- [x] Funnel Strategy 
 		- [x] Design AARRR with Jussi
 	- [x] BM
-- [ ] (**시드팁스 비상!!**) B2B / B2G Proposal & PoC [[프로젝트 제안서]](Demands Prediction & Proof)
+- [ ] (**시드팁스 비상!!**) B2B / B2G Proposal & PoC [[B2B 프로젝트 제안서]](Demands Prediction & Proof)
 - [ ] [[MVP → MLP Segment Expansion Strategy]]
 - [ ] [[Fly Wheel & Content Supplier Strategy]](서포터즈, 커뮤니티 운영자 등)
 

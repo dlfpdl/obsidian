@@ -31,7 +31,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md",
+                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ea686fb2a294e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md",
+                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md",
+                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/프로젝트 제안서.md"
+                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md"
               }
             }
           },
@@ -233,15 +245,15 @@
   },
   "active": "6801b8560c631eb5",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Day Planners/Day Planner-20230215.md",
+    "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
+    "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "His Words/성경공부/23.02.12 청년 성경공부.md",
     "Work/HR/MVC 멘토링 준비.md",
-    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-    "Work/전략/사업계획서_청년창업사관학교.md",
-    "His Words/성경공부/23.02.11 토요 성경공부.md"
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md"
   ]
 }
