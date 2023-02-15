@@ -30,57 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e129afa430c7a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.12 청년 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f120ab57f095a303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e8dcd0b19686ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/HR/MVC 멘토링 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eee127eabb364f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
+                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md"
               }
             }
           },
@@ -274,17 +226,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "f120ab57f095a303",
+  "active": "1793aae47e008d36",
   "lastOpenFiles": [
-    "Work/전략/사업계획서_청년창업사관학교.md",
     "His Words/성경공부/23.02.12 청년 성경공부.md",
+    "Work/HR/MVC 멘토링 준비.md",
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+    "Work/전략/사업계획서_청년창업사관학교.md",
     "His Words/성경공부/23.02.11 토요 성경공부.md",
     "His Words/성경공부/23.02.04 성경공부.md",
     "His Words/Words/마태복음.md",
     "His Words/Words/사무엘하.md",
     "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
-    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
-    "Work/전략/MVP 전략/MVP 로드맵_Final.md"
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
   ]
 }
