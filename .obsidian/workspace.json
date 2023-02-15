@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md"
+                "file": "Day Planners/Daily Schedule Template.md"
               }
             }
           },
@@ -227,15 +227,15 @@
   },
   "active": "6801b8560c631eb5",
   "lastOpenFiles": [
+    "Day Planners/중*장기간 이슈.md",
     "Day Planners/Day Planner-20230215.md",
+    "Day Planners/Day Planner-20230214.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/Notes.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
     "Work/전략/CSO_B2B & B2G 영업.md",
-    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
-    "His Words/성경공부/23.02.12 청년 성경공부.md",
-    "Work/HR/MVC 멘토링 준비.md"
+    "Work/스프린트/Sprint 1_Start/Funnel Design.md"
   ]
 }
