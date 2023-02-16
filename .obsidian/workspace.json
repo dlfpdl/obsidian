@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Work/스프린트/Sprint 1_Start/현황보고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Work/스프린트/Sprint 1_Start/현황보고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md"
+                "file": "Work/스프린트/Sprint 1_Start/현황보고.md"
               }
             }
           },
@@ -246,11 +246,11 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "62a0becb926168fc",
+  "active": "d04e8b9231acf7db",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/현황보고.md",
-    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Day Planners/Day Planner-20230216.md",
     "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
