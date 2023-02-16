@@ -23,6 +23,6 @@
 	- [ ] MVP → MLP 세그먼트 확장 전략[[MVP → MLP Segment Expansion Strategy]]
 	- [ ] 플라이휠 및 콘텐츠 공급 전략[[Fly Wheel & Content Supplier Strategy]]
 ***
-- [ ] 21:30 - 22:00 휴식
-- [ ] 23:00 - 24:00 저녁 말씀(신약)
+- [x] 21:30 - 22:00 휴식
+- [x] 23:00 - 24:00 저녁 말씀(신약)
 - [x] 00:00 - 01:00 자유시간
