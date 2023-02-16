@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230216.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230216.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230216.md"
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
               }
             }
           },
@@ -243,17 +243,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "f317da0a14be8284",
+  "active": "d04e8b9231acf7db",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Day Planners/Day Planner-20230216.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 1_Start/인포뱅크_현황보고.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
     "Day Planners/Daily Schedule Template.md",
-    "His Words/Words/사무엘하.md",
-    "His Words/성경공부/23.02.12 청년 성경공부.md"
+    "His Words/Words/사무엘하.md"
   ]
 }
