@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3a70c5998b2c1078",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6801b8560c631eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230216.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1635e0b28f011e1a",
         "type": "tabs",
         "children": [
@@ -87,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -215,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221
+    "width": 221,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
