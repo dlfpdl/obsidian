@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1635e0b28f011e1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d04e8b9231acf7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4976e5b6e9dde3e5",
         "type": "tabs",
         "children": [
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/HR/노무사 미팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/HR/노무사 미팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+                "file": "Work/HR/노무사 미팅.md"
               }
             }
           },
@@ -256,10 +238,10 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "d04e8b9231acf7db",
+  "active": "d2fbe0f6bf0748cd",
   "lastOpenFiles": [
-    "Work/HR/노무사 미팅.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Work/HR/노무사 미팅.md",
     "Day Planners/Day Planner-20230216.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/인포뱅크_현황보고.md",
