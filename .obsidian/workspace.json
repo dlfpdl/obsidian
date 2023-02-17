@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -221,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +239,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "f5006a466b793310",
+  "active": "f317da0a14be8284",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230216.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
