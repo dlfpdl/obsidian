@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "His Words/Words/마태복음.md",
+                "file": "His Words/Words/사무엘상.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/Words/마태복음.md",
+                "file": "His Words/Words/사무엘상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/Words/마태복음.md",
+                "file": "His Words/Words/사무엘상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/Words/마태복음.md"
+                "file": "His Words/Words/사무엘상.md"
               }
             }
           },
@@ -253,6 +253,7 @@
   "active": "7b090b61be9bab20",
   "lastOpenFiles": [
     "His Words/Words/사무엘하.md",
+    "His Words/Words/마태복음.md",
     "Work/HR/스크럼 가이드.md",
     "Work/스프린트/Sprint 1_Start/인포뱅크_현황보고.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
@@ -260,7 +261,6 @@
     "Work/전략/사업계획서_청년창업사관학교.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
-    "Day Planners/Day Planner-20230216.md",
-    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+    "Day Planners/Day Planner-20230216.md"
   ]
 }
