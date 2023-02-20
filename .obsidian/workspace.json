@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "d21605ac29a6f299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d8758ad4e22adcf5",
             "type": "leaf",
             "state": {
@@ -274,7 +262,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "d21605ac29a6f299",
+  "active": "d8758ad4e22adcf5",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
