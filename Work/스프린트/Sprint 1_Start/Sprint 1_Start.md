@@ -7,8 +7,8 @@
 	- [x] Funnel Strategy 
 		- [x] Design AARRR with Jussi
 	- [x] BM
-- [ ] (**시드팁스 비상!!**) B2B / B2G Proposal & PoC [[B2B 프로젝트 제안서]](Demands Prediction & Proof)
-- [ ] [[MVP → MLP Segment Expansion Strategy]]
+- [x] (**시드팁스 비상!!**) B2B / B2G Proposal & PoC [[B2B 프로젝트 제안서]](Demands Prediction & Proof)
+- [x] [[MVP → MLP Segment Expansion Strategy]]
 - [ ] [[Fly Wheel & Content Supplier Strategy]](서포터즈, 커뮤니티 운영자 등)
 
 ### CEO Work
@@ -16,20 +16,20 @@
 	- [x] Define Company’s Mission, Vision, Core Value and Competence 
 		- [x] Core Value: based-on community core values
 		- [x] Core Competence: our key differentiation
-- [ ] Summarize Culture Case Study
-	- [ ] Toss
+- [x] Summarize Culture Case Study
+	- [x] Toss
 	- [ ] 배민
-- [ ] Mentoring
-	- [ ] Marketer
-	- [ ] PM
+- [x] Mentoring
+	- [x] Marketer
+	- [x] PM
 - [x] 청창사 체크(금)
-- [ ] 심재훈 심사역님: AI 기획
+- [x] 심재훈 심사역님: AI 기획
 	- [ ] ChatGPT based AMA NPC OR KoGPT
 	- [ ] Graphic Resources Optimizer
-- [ ] 노무사 미팅(스톡옵션 & 월급인상 관련)
+- [x] 노무사 미팅(스톡옵션 & 월급인상 관련)
 - [x] 시드팁스 현물증빙 관련 이소정님 컨택
-- [ ] 타운홀 미팅
+- [x] 타운홀 미팅
 - [ ] 시드팁스 회계감사 비용 관련 처리
-- [ ] 인포뱅크 워크샵 준비
-	- [ ] 사업현황
-	- [ ] 워크샵 어젠다
+- [x] 인포뱅크 워크샵 준비
+	- [x] 사업현황
+	- [x] 워크샵 어젠다
