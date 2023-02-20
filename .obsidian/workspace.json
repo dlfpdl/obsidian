@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0e75ab0c9036a3",
+        "id": "0955536c40b42218",
         "type": "tabs",
         "children": [
           {
-            "id": "836fe0f37b1e7c22",
+            "id": "748c59fdfd85081d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc3db18a7bae723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17d0616d3aac13b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81bf8802c711f85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+                "file": "His Words/성경공부/23.02.19 청년 성경공부.md"
               }
             }
           },
@@ -249,17 +213,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "836fe0f37b1e7c22",
+  "active": "748c59fdfd85081d",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
+    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
-    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
-    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Images/Pasted image 20230220193854.png",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
-    "Day Planners/Day Planner-20230220.md",
-    "Work/HR/멘토링.md"
+    "Day Planners/Day Planner-20230220.md"
   ]
 }
