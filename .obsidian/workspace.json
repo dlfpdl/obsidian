@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "6bc3db18a7bae723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산디 X 아싳 X 여우.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eb6293e023434d38",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산디 X 아싳 X 여우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산디 X 아싳 X 여우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산디 X 아싳 X 여우.md"
               }
             }
           },
@@ -262,11 +274,11 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "d8758ad4e22adcf5",
+  "active": "6bc3db18a7bae723",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산디 X 아싳 X 여우.md",
     "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
-    "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/엑셀러레이팅 프로그램.md",
     "Day Planners/Day Planner-20230220.md",
     "Day Planners/Day Planner-20230214.md",
