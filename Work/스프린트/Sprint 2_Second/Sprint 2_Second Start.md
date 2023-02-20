@@ -1,6 +1,5 @@
 ### CSO: 자금유치 
-- [ ] 인포뱅크 ZERO1NE ACCELERATION
-- [ ] 정부지원사업 찾아보기 2P
+- [ ] 정부지원사업 찾아보기 **2P**
 	- [ ] 2023년 혁신분야 창업패키지(비대면 스타트업 육성)
 	- [ ] 롯데제과 x B.Startup 지원
 	- [ ] 문화체육관광부 지원사업
@@ -12,12 +11,12 @@
 			- [ ] [[여우 게임 커뮤니티]]
 		- [ ] 2023년 (국고)메타버스 예술활동 지원사업 **02.24.16:00**
 			- [ ] 지웅과 만나 “[[KAIST 산디 X 아싳 X 여우]]**”할지 안할지 결정
-- [ ] [[엑셀러레이팅 프로그램]] 2P
+- [ ] [[엑셀러레이팅 프로그램]] **2P**
 	- [ ] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
 	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
-	- [ ] 
+	- [ ] 인포뱅크 ZERO1NE ACCELERATION
 
 ### CSO: 세그먼트 전략 & 기획
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
