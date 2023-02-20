@@ -3,10 +3,11 @@
 - [ ] 정부지원사업 찾아보기 2P
 	- [ ] 2023년 혁신분야 창업패키지(비대면 스타트업 육성)
 	- [ ] 롯데제과 x B.Startup 지원
-	- [ ] 2023년 상반기 제피러스 캠프(Z-CAMP) 참여기업 모집
+	- [ ] 
 	- [ ] 문화체육관광부 지원사업
 	- [ ] 콘텐츠진흥원 지원사업 
 - [ ] 엑셀러레이팅 프로그램 2P
+	- [ ] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
 	- [ ] 
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
 - [ ] 세그먼트 별 전략 (4개 세그먼트)
