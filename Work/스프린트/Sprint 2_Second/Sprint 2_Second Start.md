@@ -15,7 +15,7 @@
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
 
-### CSO: 세그먼트 전략
+### CSO: 세그먼트 전략 & 기획
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
 - [ ] 세그먼트 별 전략 (4개 세그먼트)
 	- [ ] 세그먼트 특징 & 페르소나 정의
