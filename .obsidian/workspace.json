@@ -4,93 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4976e5b6e9dde3e5",
+        "id": "0b0e75ab0c9036a3",
         "type": "tabs",
         "children": [
           {
-            "id": "f317da0a14be8284",
+            "id": "836fe0f37b1e7c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/인포뱅크_현황보고.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b090b61be9bab20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.18 토요 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1090f6081b9156bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.18 토요 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02412dbacabf7008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c498965a26f9e94a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf"
-              }
-            }
-          },
-          {
-            "id": "d2fbe0f6bf0748cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a0becb926168fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "His Words/성경공부/23.02.19 청년 성경공부.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "His Words/성경공부/23.02.19 청년 성경공부.md"
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
               }
             }
           },
@@ -284,17 +213,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "02412dbacabf7008",
+  "active": "836fe0f37b1e7c22",
   "lastOpenFiles": [
-    "His Words/성경공부/23.02.12 청년 성경공부.md",
-    "His Words/성경공부/23.02.18 토요 성경공부.md",
-    "His Words/성경공부/23.02.19 청년 성경공부.md",
-    "His Words/성경공부/23.02.04 성경공부.md",
-    "His Words/성경공부/23.02.05 성경공부.md",
-    "His Words/성경공부/23.02.11 토요 성경공부.md",
-    "His Words/Words/사무엘하.md",
-    "His Words/9. 천주교가 기독교와 다른 37가지 이유.pdf",
+    "Work/스프린트/Sprint 1_Start/Notes.md",
+    "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
+    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
+    "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
+    "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
-    "His Words/Words/사무엘상.md"
+    "Work/스프린트/Sprint 1_Start/핵심기능 3) 특화기능.md",
+    "Work/스프린트/Sprint 1_Start/핵심기능 2) 공간 + 활동(소통).md",
+    "Work/스프린트/Sprint 1_Start/핵심기능 1) 소모임 & 그룹대화(Activity Board).md"
   ]
 }
