@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+                "file": "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md"
               }
             }
           },
@@ -286,17 +286,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "6bc3db18a7bae723",
+  "active": "eb6293e023434d38",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Images/Pasted image 20230220193854.png",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
     "Day Planners/Day Planner-20230220.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/HR/멘토링.md",
     "Work/HR/반성과 앞으로의 미래..md",
-    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
     "Day Planners/Day Planner-20230214.md"
   ]
 }
