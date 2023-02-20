@@ -15,6 +15,7 @@
 	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
+	- [ ] 
 
 ### CSO: 세그먼트 전략 & 기획
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
