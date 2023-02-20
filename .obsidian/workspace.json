@@ -6,7 +6,6 @@
       {
         "id": "0b0e75ab0c9036a3",
         "type": "tabs",
-        "dimension": 17.6056338028169,
         "children": [
           {
             "id": "836fe0f37b1e7c22",
@@ -93,22 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "269cc93bec685526",
-        "type": "tabs",
-        "dimension": 82.3943661971831,
-        "children": [
-          {
-            "id": "83234c68c86505d6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,9 +176,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "83234c68c86505d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -212,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+              }
             }
           },
           {
@@ -290,7 +286,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "83234c68c86505d6",
+  "active": "6bc3db18a7bae723",
   "lastOpenFiles": [
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
