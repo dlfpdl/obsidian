@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
+                "file": "Work/전략/MVP 전략/MVP 로드맵_Final.md"
               }
             }
           },
@@ -215,15 +215,15 @@
   },
   "active": "836fe0f37b1e7c22",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 1_Start/Notes.md",
+    "Work/전략/MVP 전략/BM 및 보상체계(Cap).md",
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
+    "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
+    "Work/스프린트/Sprint 1_Start/Notes.md",
     "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
     "Work/스프린트/Sprint 1_Start/Funnel Design.md",
     "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
     "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md",
-    "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
-    "Work/스프린트/Sprint 1_Start/핵심기능 3) 특화기능.md",
-    "Work/스프린트/Sprint 1_Start/핵심기능 2) 공간 + 활동(소통).md",
-    "Work/스프린트/Sprint 1_Start/핵심기능 1) 소모임 & 그룹대화(Activity Board).md"
+    "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md"
   ]
 }
