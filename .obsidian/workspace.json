@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230220.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230220.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230220.md",
+                "file": "Day Planners/Daily Schedule Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230220.md"
+                "file": "Day Planners/Daily Schedule Template.md"
               }
             }
           },
@@ -228,15 +228,15 @@
   },
   "active": "d21605ac29a6f299",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230130.md",
+    "Day Planners/Daily Schedule Template.md",
+    "Day Planners/Day Planner-20230129.md",
+    "Day Planners/Day Planner-20230220.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/전략/MVP 전략/BM 및 보상체계(Cap).md",
     "Work/전략/MVP 전략/MVP 로드맵_Rough.md",
-    "Work/스프린트/Sprint 1_Start/Notes.md",
-    "Work/스프린트/Sprint 1_Start/MVP → MLP Segment Expansion Strategy.md",
-    "Work/스프린트/Sprint 1_Start/Funnel Design.md",
-    "Work/스프린트/Sprint 1_Start/Fly Wheel & Content Supplier Strategy.md",
-    "Work/스프린트/Sprint 1_Start/B2G 프로젝트 제안서.md"
+    "Work/스프린트/Sprint 1_Start/Notes.md"
   ]
 }
