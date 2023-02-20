@@ -14,7 +14,6 @@
 	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
-	- [ ] 인포뱅크 ZERO1NE ACCELERATION
 	- [ ] 롯데제과 x B.Startup
 ### CSO: 세그먼트 전략 & 기획
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
@@ -63,4 +62,4 @@
 	- 당연한 산업과 당연한 산업을 붙였을 때 working / **비어있는 포인트가 꽤 있을 것**.
 		- 검증 과정은 “팀원 모두가 함께” 정하자. **이정도면 “성공했다 / 실패했다”라는 기준을 정하자.**
 			- 성공과 실패의 기준을 정하는 것이 중요함. 
-	- 
+1. 지원사업은 메인을 벗어나지 않는 범위 안에서(리소스 아끼
