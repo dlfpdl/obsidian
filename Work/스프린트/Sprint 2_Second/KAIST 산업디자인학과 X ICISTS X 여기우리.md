@@ -7,7 +7,8 @@
 ### 상세 계획
 - 핵심가치![[Pasted image 20230220193854.png]]
 -  Key Flow![[Pasted image 20230220194045.png]]
-- 신청 주체 별 수행구조
+- 신청 주체 별 수행구조(Role & Responsibility)![[Pasted image 20230220194143.png]]
+> [!tip] 기
 
 ## 자금소요계획
 - 
