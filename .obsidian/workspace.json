@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "d8758ad4e22adcf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea818e583af05bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6bc3db18a7bae723",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+                "file": "Work/스프린트/Sprint 1_Start/Sprint 1_Start.md"
               }
             }
           },
@@ -274,10 +249,10 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "6ea818e583af05bb",
+  "active": "836fe0f37b1e7c22",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
