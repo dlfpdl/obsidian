@@ -9,13 +9,13 @@
 		- [ ] 2023년 게임기획 개발지원(스타트업)
 		- [ ] (수정공고) 2023년 게임콘텐츠 제작지원 사업 공고
 		- [ ] 2023년 (국고)메타버스 예술활동 지원사업
-		- [ ] 
 - [ ] 엑셀러레이팅 프로그램 2P
 	- [ ] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
 	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
-	- [ ] 
+
+### CSO: 세그먼트 전략
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
 - [ ] 세그먼트 별 전략 (4개 세그먼트)
 	- [ ] 세그먼트 특징 & 페르소나 정의
