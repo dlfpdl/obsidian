@@ -1,3 +1,5 @@
 {
-  "template": "Day Planners/Daily Schedule Template"
+  "template": "Day Planners/Daily Schedule Template",
+  "autorun": true,
+  "folder": "Day Planners"
 }
