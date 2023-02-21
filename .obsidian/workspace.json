@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Day Planners/Day Planner-20230221.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md"
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md"
               }
             }
           },
@@ -227,17 +227,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "748c59fdfd85081d",
+  "active": "56b503f8b63a3158",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230221.md",
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
-    "Day Planners/Day Planner-20230221.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
     "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
     "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Day Planners/2023-02-21.md",
-    "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md"
+    "Work/전략/MVP 전략/MVP 로드맵_Final.md"
   ]
 }
