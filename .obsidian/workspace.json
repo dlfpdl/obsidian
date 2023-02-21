@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "748c59fdfd85081d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a2bf66b46f9347b",
             "type": "leaf",
             "state": {
@@ -37,6 +25,18 @@
         "id": "c99d41021f64ecb3",
         "type": "tabs",
         "children": [
+          {
+            "id": "748c59fdfd85081d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "56b503f8b63a3158",
             "type": "leaf",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+                "file": "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md"
               }
             }
           },
@@ -245,15 +245,15 @@
   },
   "active": "748c59fdfd85081d",
   "lastOpenFiles": [
-    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
+    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
     "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
     "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Day Planners/Day Planner-20230221.md",
     "Day Planners/2023-02-21.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
-    "His Words/Words/마태복음.md"
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md"
   ]
 }
