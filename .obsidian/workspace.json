@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a2bf66b46f9347b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,17 +226,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "748c59fdfd85081d",
+  "active": "1a2bf66b46f9347b",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230221.md",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
+    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
+    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+    "Day Planners/Day Planner-20230221.md",
     "Day Planners/2023-02-21.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
-    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
-    "His Words/Words/마태복음.md",
-    "His Words/성경공부/23.02.19 청년 성경공부.md",
-    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md"
+    "His Words/Words/마태복음.md"
   ]
 }
