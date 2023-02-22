@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "ff961460e9151ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e68ea869bd69145f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9001a06a5469add7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,15 +257,15 @@
   },
   "active": "748c59fdfd85081d",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리 1.md",
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Day Planners/Day Planner-20230222.md",
     "Day Planners/2023-02-22.md",
     "Day Planners/Day Planner-20230221.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Day Planners/Daily Schedule Template.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
-    "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
-    "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md"
+    "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md"
   ]
 }
