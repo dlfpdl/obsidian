@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/Day Planner-20230222.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +221,10 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "748c59fdfd85081d",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
-    "Day Planners/2023-02-22.md",
     "Day Planners/Day Planner-20230222.md",
+    "Day Planners/2023-02-22.md",
     "Day Planners/Day Planner-20230221.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
