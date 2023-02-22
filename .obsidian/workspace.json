@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/메일폼.md",
+                "file": "Day Planners/Day Planner-20230222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/메일폼.md",
+                "file": "Day Planners/Day Planner-20230222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/메일폼.md"
+                "file": "Day Planners/Day Planner-20230222.md"
               }
             }
           },
@@ -238,11 +237,11 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "b6aee5f03ca77e68",
+  "active": "748c59fdfd85081d",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/메일폼.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
-    "Work/스프린트/Sprint 2_Second/메일폼.md",
     "Day Planners/Day Planner-20230222.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Images/Pasted image 20230222120830.png",
