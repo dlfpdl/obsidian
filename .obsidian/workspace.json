@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230221.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b503f8b63a3158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230221.md",
+                "file": "Day Planners/Day Planner-20230222.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230222.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,17 +226,17 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "0bc910b78cfbda15",
+  "active": "748c59fdfd85081d",
   "lastOpenFiles": [
-    "Day Planners/Daily Schedule Template.md",
+    "Day Planners/Day Planner-20230221.md",
+    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+    "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Day Planners/Day Planner-20230222.md",
+    "Day Planners/Daily Schedule Template.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 1_Start/B2B 프로젝트 제안서.md",
     "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
     "Work/스프린트/Sprint 2_Second/여우 게임 커뮤니티.md",
-    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
-    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md",
-    "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-    "Day Planners/Day Planner-20230221.md"
+    "Work/스프린트/Sprint 2_Second/커뮤니티 별 전략.md"
   ]
 }
