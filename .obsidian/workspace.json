@@ -32,36 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ff961460e9151ebe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e68ea869bd69145f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9001a06a5469add7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
