@@ -105,4 +105,6 @@
 		5. 제일 중요: 혁신적인 UX(우리가 보기에도 개쩐다 돼야함.)
 ***
 <center><u>연락해야 할 사람들 목록</u></center>
+- 김세이 선생님 sesedolee@kaist.ac.kr
+- 학부 학생대표 윤서진 seojin_youn@kaist.ac.kr
 - 
