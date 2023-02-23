@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/2023-02-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,8 +209,9 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1c3c4d5da1344271",
+  "active": "83234c68c86505d6",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Day Planners/2023-02-23.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
