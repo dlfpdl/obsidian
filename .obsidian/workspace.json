@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Day Planners/2023-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,7 +220,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1c3c4d5da1344271",
+  "active": "7d298ccf3e3f56e6",
   "lastOpenFiles": [
     "Day Planners/2023-02-23.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
