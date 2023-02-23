@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
+                "file": "Day Planners/Day Planner-20230223.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
+                "file": "Day Planners/Day Planner-20230223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
+                "file": "Day Planners/Day Planner-20230223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-02-23.md"
+                "file": "Day Planners/Day Planner-20230223.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "2b801e66c34d04ff",
   "lastOpenFiles": [
+    "Day Planners/2023-02-23.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 2_Second/메일폼.md",
     "Work/전략/MVP 전략/MVP 로드맵_Final.md",
@@ -224,7 +225,6 @@
     "Images/Pasted image 20230222133435.png",
     "Images/Pasted image 20230222133441.png",
     "Day Planners/Day Planner-20230222.md",
-    "Work/스프린트/Sprint 2_Second/로드맵_리뉴얼.md",
-    "Images/Pasted image 20230222120830.png"
+    "Work/스프린트/Sprint 2_Second/로드맵_리뉴얼.md"
   ]
 }
