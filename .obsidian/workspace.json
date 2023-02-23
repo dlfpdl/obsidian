@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+                "file": "Day Planners/2023-02-23.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7d298ccf3e3f56e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+                "file": "Day Planners/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+                "file": "Day Planners/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md"
+                "file": "Day Planners/2023-02-23.md"
               }
             }
           },
@@ -201,12 +211,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "canvas:Create new canvas": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
