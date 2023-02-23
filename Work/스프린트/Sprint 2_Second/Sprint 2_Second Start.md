@@ -108,4 +108,4 @@
 - 김세이 선생님 sesedolee@kaist.ac.kr
 - 학부 학생대표 윤서진 seojin_youn@kaist.ac.kr
 - 김명성 석사생 pluto6944@kaist.ac.kr
-- 
+- 백선우 석사생 Wonder Lab sw981127@kaist.ac.kr
