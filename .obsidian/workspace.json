@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Day Planners/2023-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Day Planners/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "file": "Day Planners/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+                "file": "Day Planners/2023-02-23.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "1c3c4d5da1344271",
   "lastOpenFiles": [
+    "Day Planners/2023-02-22.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Day Planners/2023-02-23.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
