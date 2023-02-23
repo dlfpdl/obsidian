@@ -104,9 +104,5 @@
 		4. 날카로운 기능 기획 + 개발
 		5. 제일 중요: 혁신적인 UX(우리가 보기에도 개쩐다 돼야함.)
 ***
-<div style=”font-weight: bold;   
-font-style: italic;  
-font-size: 2.0em;  
-line-height: 1.0em;  
-font-family: 돋움체;”>산디과 연락</div>
 <center><u>연락해야 할 사람들 목록</u></center>
+- 
