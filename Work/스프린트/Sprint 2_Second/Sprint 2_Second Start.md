@@ -9,7 +9,6 @@
 			- [ ] 게임 개발 [[여우 게임 커뮤니티]]
 		- [x] 2023년 (국고)메타버스 예술활동 지원사업 **02.24.16:00**
 			- [ ] 지웅과 만나 “[[KAIST 산업디자인학과 X ICISTS X 여기우리]]**”할지 안할지 결정
-				- [ ] 
 - [ ] [[민간주도 PoC & 엑셀러레이팅 프로그램]] **2P**
 	- [ ] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
 	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
