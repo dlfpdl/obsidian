@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Day Planners/2023-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02d1a6e1fbea51bd",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Day Planners/2023-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+                "file": "Day Planners/2023-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md"
+                "file": "Day Planners/2023-02-22.md"
               }
             }
           },
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,11 +213,12 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1c3c4d5da1344271",
+  "active": "f5006a466b793310",
   "lastOpenFiles": [
+    "Day Planners/2023-02-23.md",
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Thoughts/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf",
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
-    "Day Planners/2023-02-23.md",
     "Day Planners/2023-02-22.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
@@ -228,7 +227,6 @@
     "Day Planners/아카이브/Day Planner-20230129.md",
     "Day Planners/아카이브/Day Planner-20230222.md",
     "Day Planners/Day Planner-20230223.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Work/스프린트/Sprint 2_Second/메일폼.md"
   ]
 }
