@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-02-22.md",
+                "file": "Day Planners/2023-02-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f6077b241b16996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/2023-02-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-02-22.md",
+                "file": "Day Planners/2023-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-02-22.md",
+                "file": "Day Planners/2023-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-02-22.md"
+                "file": "Day Planners/2023-02-24.md"
               }
             }
           },
@@ -213,13 +226,14 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "f5006a466b793310",
+  "active": "9f6077b241b16996",
   "lastOpenFiles": [
     "Day Planners/2023-02-23.md",
+    "Day Planners/2023-02-24.md",
+    "Day Planners/2023-02-22.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Thoughts/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf",
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
-    "Day Planners/2023-02-22.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Day Planners/아카이브/Daily Schedule Template.md",
