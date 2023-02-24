@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9adf39835132a9f",
+        "id": "7a744ddb8e2e5b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3c4d5da1344271",
+            "id": "9ffe2089cb329641",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6077b241b16996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2023-02-24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,16 +205,16 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1c3c4d5da1344271",
+  "active": "9ffe2089cb329641",
   "lastOpenFiles": [
-    "Day Planners/2023-02-23.md",
     "Day Planners/2023-02-24.md",
+    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
+    "Day Planners/2023-02-23.md",
     "Day Planners/2023-02-22.md",
     "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Thoughts/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf",
     "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
-    "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Day Planners/아카이브/Daily Schedule Template.md",
     "Day Planners/아카이브/중*장기간 이슈.md",
     "Day Planners/아카이브/Day Planner-20230129.md",
