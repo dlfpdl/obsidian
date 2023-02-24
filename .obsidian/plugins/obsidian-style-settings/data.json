@@ -6,5 +6,6 @@
   "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-dark-lt",
   "obsidian-prism-theme@@graph-line-color-lt": "var(--background-secondary-alt)",
   "obsidian-prism-theme@@scroll-bar-size": 12,
-  "list-callouts@@lc-bg-left-checkbox-lp": 30
+  "list-callouts@@lc-bg-left-checkbox-lp": 30,
+  "shimmering-focus@@mac-os-native": false
 }
