@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-02-23.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-02-24.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-02-24.md",
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-02-24.md"
+                "file": "Work/스프린트/Sprint 2_Second/정부지원사업.md"
               }
             }
           },
@@ -226,7 +225,7 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "9f6077b241b16996",
+  "active": "1c3c4d5da1344271",
   "lastOpenFiles": [
     "Day Planners/2023-02-23.md",
     "Day Planners/2023-02-24.md",
