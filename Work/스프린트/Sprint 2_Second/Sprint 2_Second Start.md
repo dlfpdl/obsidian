@@ -8,13 +8,12 @@
 		- [x] **2023년 게임기획 개발지원(스타트업)**
 			- [x] 게임 개발 [[여우 게임 커뮤니티]]
 		- [x] 2023년 (국고)메타버스 예술활동 지원사업 **02.24.16:00**
-			- [ ] 지웅과 만나 “[[KAIST 산업디자인학과 X ICISTS X 여기우리]]**”할지 안할지 결정
-- [ ] [[민간주도 PoC & 엑셀러레이팅 프로그램]] **2P**
-	- [ ] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
-	- [ ] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
+			- [x] 지웅과 만나 “[[KAIST 산업디자인학과 X ICISTS X 여기우리]]**”할지 안할지 결정
+- [x] [[민간주도 PoC & 엑셀러레이팅 프로그램]] **2P**
+	- [x] **2023 ETSL 7기 참가신청서** https://docs.google.com/forms/d/e/1FAIpQLSfH_Z5IODBYoFi_MUtElagvUheS5aYGLrWYrPczjuCrhDgGOg/viewform
+	- [x] 넥스트 챌린지 ‘늑대 5기’ https://app.catchsecu.com/project/8369847267fc107/form 
 	- [ ] 롯데벤처스 L-CAMP http://main.demoday.co.kr/invest/5225
 	- [ ] V-Frotiners https://hs-vfrontiers.com/
-	- [ ] 롯데제과 x B.Startup
 ### CSO: 세그먼트 전략 & 기획
 - [x] 심재훈 심사역님 & 이준호 심사역님 Help
 - [x] [[세그먼트 별 전략]] (4개 세그먼트)
@@ -23,18 +22,18 @@
 	- [x] 시장 규모
 	- [x] 여기우리 솔루션 Fit
 	- [x] 특화기능(brainstorm)
-- [ ] 기획
-	- [ ] Working Backwards: 
-	- [ ] B2G & B2B 제안서
+- [x] 기획
+	- [x] Working Backwards: 
+	- [x] B2G & B2B 제안서
 		- [ ] 메타버스 이벤트
 		- [ ] 메타버스 커뮤니티 아웃소싱
 
 ### CEO
-- [ ] 기술 개발 시작
-- [ ] 시드팁스 회계감사비용
-- [ ] 팁스 준비
+- [x] 기술 개발 시작
+- [x] 시드팁스 회계감사비용
+- [x] 팁스 준비
 ***
-### 피드백 
+### 이준호 심사역 피드백 
 - 인원 감축이 필요함. 퓨처리즘랩스 주 100시간 찍으면서 이야기 함.
 	- 경영진이 너무 착하지 않나.. 채찍 때리는 사람이 없음.
 	- 지금 우리가 우리의 많은 것을 포기하고 희생하고 있으니 “**더 빠르게 결과를 뽑아내야 함**”(지표증명)
