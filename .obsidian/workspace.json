@@ -11,8 +11,12 @@
             "id": "9ffe2089cb329641",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md"
+              }
             }
           },
           {
@@ -207,19 +215,21 @@
   },
   "active": "9ffe2089cb329641",
   "lastOpenFiles": [
+    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
+    "Work/스프린트/Sprint 2_Second/세그먼트 별 전략.md",
+    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
+    "Work/스프린트/Sprint 2_Second/메일폼.md",
+    "Work/스프린트/Sprint 2_Second/로드맵_리뉴얼.md",
     "Day Planners/2023-02-24.md",
     "Work/스프린트/Sprint 2_Second/정부지원사업.md",
     "Day Planners/2023-02-23.md",
     "Day Planners/2023-02-22.md",
-    "Work/스프린트/Sprint 2_Second/KAIST 산업디자인학과 X ICISTS X 여기우리.md",
     "Thoughts/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf",
-    "Work/스프린트/Sprint 2_Second/민간주도 PoC & 엑셀러레이팅 프로그램.md",
     "Work/스프린트/Sprint 2_Second/Sprint 2_Second Start.md",
     "Day Planners/아카이브/Daily Schedule Template.md",
     "Day Planners/아카이브/중*장기간 이슈.md",
     "Day Planners/아카이브/Day Planner-20230129.md",
     "Day Planners/아카이브/Day Planner-20230222.md",
-    "Day Planners/Day Planner-20230223.md",
-    "Work/스프린트/Sprint 2_Second/메일폼.md"
+    "Day Planners/Day Planner-20230223.md"
   ]
 }
